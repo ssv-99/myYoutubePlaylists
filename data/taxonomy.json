@@ -1,0 +1,129 @@
+{
+  "categories": [
+    {
+      "name": "Java / JVM / Spring",
+      "subcategories": [
+        "Collections",
+        "Core Java",
+        "Java + Algorithms",
+        "Java Interviews",
+        "Spring / Backend"
+      ]
+    },
+    {
+      "name": "DSA / Algorithms / CS Problem Solving",
+      "subcategories": [
+        "Dynamic Programming",
+        "Interview Problem Solving",
+        "Linked Lists",
+        "Problem Solving / DSA",
+        "Recursion",
+        "Sorting"
+      ]
+    },
+    {
+      "name": "SQL / Databases",
+      "subcategories": [
+        "Joins",
+        "Learning Roadmap",
+        "SQL Fundamentals",
+        "Stored Procedures"
+      ]
+    },
+    {
+      "name": "Backend / APIs / Microservices",
+      "subcategories": [
+        "APIs",
+        "Backend Development",
+        "Microservices / Backend Architecture"
+      ]
+    },
+    {
+      "name": "Web Development / Frontend / JavaScript",
+      "subcategories": [
+        "HTML / CSS",
+        "JavaScript",
+        "React",
+        "UI / Figma",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Software Engineering / CS Fundamentals",
+      "subcategories": [
+        "CS Fundamentals",
+        "Engineering Practices",
+        "Software Design / Clean Code"
+      ]
+    },
+    {
+      "name": "Git / GitHub",
+      "subcategories": [
+        "Git / GitHub Workflow"
+      ]
+    },
+    {
+      "name": "DevOps / CI-CD",
+      "subcategories": [
+        "CI/CD"
+      ]
+    },
+    {
+      "name": "AI / LLM / AI Tools",
+      "subcategories": [
+        "AI Tools / Workflow",
+        "ChatGPT / GPT",
+        "Claude",
+        "Gemini",
+        "LLMs / AI Models"
+      ]
+    },
+    {
+      "name": "Cybersecurity / Privacy",
+      "subcategories": [
+        "Security / Privacy"
+      ]
+    },
+    {
+      "name": "Developer Tools / OS / Productivity",
+      "subcategories": [
+        "Developer Tools",
+        "Productivity / Utilities",
+        "Windows",
+        "macOS / Terminal"
+      ]
+    },
+    {
+      "name": "Automation / Developer Productivity",
+      "subcategories": [
+        "Automation"
+      ]
+    },
+    {
+      "name": "Career / Interview / Learning",
+      "subcategories": [
+        "Career / Interviews",
+        "Learning / Study",
+        "Professional Development"
+      ]
+    },
+    {
+      "name": "Finance / Banking / Money",
+      "subcategories": [
+        "Finance / Banking"
+      ]
+    },
+    {
+      "name": "Files / Formats / Digital Media",
+      "subcategories": [
+        "File Formats"
+      ]
+    },
+    {
+      "name": "Other / General",
+      "subcategories": [
+        "General"
+      ]
+    }
+  ]
+}
