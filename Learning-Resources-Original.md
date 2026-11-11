@@ -1,6 +1,47 @@
 # Learning Resources
 
-### 1. Chrome DevTools - Crash Course
+### 1. Why your cold emails aren't paying off | Best of Luck
+- **URL**: [https://www.youtube.com/watch?v=l7-eiKWhRHo](https://www.youtube.com/watch?v=l7-eiKWhRHo)
+- **Channel**: Vox
+- **Duration**: 43:28
+- **Views**: 46,304
+- **Likes**: 250
+- **Comments**: 37
+- **Thumbnail**: [View Image](https://i.ytimg.com/vi/l7-eiKWhRHo/maxresdefault.jpg)
+- **Description**:
+  Everyone tells you it’s who you know. But what do you do if you don’t know anyone?
+  
+  Marshall Kosloff is really good at building genuine connections, and it’s really paid off for his career. And when he first moved to DC, he didn’t know a single person.
+  
+  Marshall says his job is to "throw parties." Officially, he is the host of the political podcast The Realignment, and Senior Fellow and Director of Special Projects at the Niskanen Center, a think tank in DC. 
+  
+  In this episode: how to start a conversation that turns into a professional connection, why your cold emails aren’t getting answered, and how to de-risk your big career leap.
+   
+  00:00 Marshall is the best networker I’ve met
+  00:48 A message brought to you by AlphaSpace
+  01:36 Remember Abercrombie models?
+  05:57 How to network as a nobody 
+  10:06 A message brought to you by AlphaSpace
+  11:18 Just be confident! On taking action
+  14:33 #1 career tip: just show interest
+  16:25 How to write a good cold email
+  22:05 Rethink risk in your career
+  24:37 Your manager’s feedback might be wrong 
+  31:34 Grad school is a trap 
+  32:18 Do you take an unpaid internship?
+  36:30 Applying to be Gandalf 
+  39:56 Luck questionnaire 
+  
+  Follow Best of Luck on Instagram: https://www.instagram.com/bestofluckpodcast
+  Follow Kyla Scanlon on Instagram: https://www.instagram.com/kylascan 
+  
+  This interview was taped at ⁠Aspen Ideas: Economy⁠: https://www.aspenideas.org/attend/economy
+  
+  Our theme song is "Frolic" by Jake Xerxes Fussell. Discover more of his music and tour dates here: https://www.jakexerxesfussell.com/
+  
+  Produced by: Megan Cunnane, Wendy Mullin, Devan Joseph, Garrett Williams, Coby Weiss
+
+### 2. Chrome DevTools - Crash Course
 - **URL**: [https://www.youtube.com/watch?v=gTVpBbFWry8](https://www.youtube.com/watch?v=gTVpBbFWry8)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 1:14:51
@@ -37,7 +78,7 @@
   
   ❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp
 
-### 2. Claude Now Watermarks Its Text. How Do You Even Do That?
+### 3. Claude Now Watermarks Its Text. How Do You Even Do That?
 - **URL**: [https://www.youtube.com/watch?v=3FhxdhVMJoU](https://www.youtube.com/watch?v=3FhxdhVMJoU)
 - **Channel**: Squintist
 - **Duration**: 15:00
@@ -99,7 +140,7 @@
   12:53 What a watermark can actually answer
   13:25 How this channel gets made
 
-### 3. Did Google just kickstart the intelligence explosion?
+### 4. Did Google just kickstart the intelligence explosion?
 - **URL**: [https://www.youtube.com/watch?v=LoLYw--s-5w](https://www.youtube.com/watch?v=LoLYw--s-5w)
 - **Channel**: Fireship
 - **Duration**: 4:58
@@ -119,7 +160,7 @@
   🗞️ Newsletter: https://bytes.dev
   🧠 Courses: https://fireship.dev
 
-### 4. Apple Preview is kinda insane.
+### 5. Apple Preview is kinda insane.
 - **URL**: [https://www.youtube.com/watch?v=FMiTNASBHiE](https://www.youtube.com/watch?v=FMiTNASBHiE)
 - **Channel**: MacVince
 - **Duration**: 7:54
@@ -173,7 +214,7 @@
   07:24 - Dark mode for PDFs
   07:40 - PDFs x Apple Notes
 
-### 5. HOW to CHEAT the Job Interview Game and Land Offers | Interview Hacks
+### 6. HOW to CHEAT the Job Interview Game and Land Offers | Interview Hacks
 - **URL**: [https://www.youtube.com/watch?v=2tl4EjfELZI](https://www.youtube.com/watch?v=2tl4EjfELZI)
 - **Channel**: Savinder Puri
 - **Duration**: 21:05
@@ -253,7 +294,7 @@
   
   Savinder is a recognised figure in the DevOps space and has been speaking at leading industry events worldwide. He is a Global DevOps Ambassador with DevOps Institute and Continuous Delivery Foundation (CDF) Ambassador. He's also authored the widely popular "How do I build a career in DevOps? - A practical handbook to help you start or scale up your career in DevOps", and  "Spirituality & Success - A Guide to Using Spirituality for Success at Home and Work" which are available on Amazon worldwide.
 
-### 6. Introduction to Recursion - Learn In The Best Way
+### 7. Introduction to Recursion - Learn In The Best Way
 - **URL**: [https://www.youtube.com/watch?v=M2uO2nMT0Bk](https://www.youtube.com/watch?v=M2uO2nMT0Bk)
 - **Channel**: Kunal Kushwaha
 - **Duration**: 1:55:49
@@ -304,7 +345,7 @@
   
   #placement #dsa #interviews
 
-### 7. Re 1. Introduction to Recursion | Recursion Tree | Stack Space | Strivers A2Z DSA Course
+### 8. Re 1. Introduction to Recursion | Recursion Tree | Stack Space | Strivers A2Z DSA Course
 - **URL**: [https://www.youtube.com/watch?v=yVdKa8dnKiE](https://www.youtube.com/watch?v=yVdKa8dnKiE)
 - **Channel**: take U forward
 - **Duration**: 22:45
@@ -326,7 +367,7 @@
   
   Join our Discord Channel - https://discord.gg/GgyQAGEdbG
 
-### 8. 🔔 LTI Mindtree Java Interview | 2–7 Years Experience | Java | Java 8 | Spring Boot | Microservices
+### 9. 🔔 LTI Mindtree Java Interview | 2–7 Years Experience | Java | Java 8 | Spring Boot | Microservices
 - **URL**: [https://www.youtube.com/watch?v=BxpG9zTI00k](https://www.youtube.com/watch?v=BxpG9zTI00k)
 - **Channel**: Insights Instructor
 - **Duration**: 39:25
@@ -428,7 +469,7 @@
   
   🔍 #LTIMindtree #LTIMindtreeInterview #JavaDeveloper #CoreJava #Java8 #SpringBoot #Microservices #SQL #CodingRound #SystemDesign #ServiceBasedCompanies #MockInterview #JavaJobs #TechCareers
 
-### 9. Java Interview Experience at LTI Mindtree | Real-Time Questions & Answer
+### 10. Java Interview Experience at LTI Mindtree | Real-Time Questions & Answer
 - **URL**: [https://www.youtube.com/watch?v=ar4l4vz4dcc](https://www.youtube.com/watch?v=ar4l4vz4dcc)
 - **Channel**: RD Automation Learning
 - **Duration**: 28:52
@@ -465,7 +506,7 @@
   #AutomationTesting
   #SeleniumInterview
 
-### 10. Learn SQL Beginner to Advanced in Under 4 Hours
+### 11. Learn SQL Beginner to Advanced in Under 4 Hours
 - **URL**: [https://www.youtube.com/watch?v=OT1RErkfLNQ](https://www.youtube.com/watch?v=OT1RErkfLNQ)
 - **Channel**: Alex The Analyst
 - **Duration**: 4:04:58
@@ -539,7 +580,7 @@
   
   *All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*
 
-### 11. Chargebacks - 3 Types Of Chargebacks - Friendly Fraud - What Is A Chargeback & Chargeback Protection
+### 12. Chargebacks - 3 Types Of Chargebacks - Friendly Fraud - What Is A Chargeback & Chargeback Protection
 - **URL**: [https://www.youtube.com/watch?v=09ibuR5I3uE](https://www.youtube.com/watch?v=09ibuR5I3uE)
 - **Channel**: BancardSales
 - **Duration**: 7:22
@@ -593,7 +634,7 @@
   
   https://www.youtube.com/watch?v=VUcohLCJy4w
 
-### 12. SQL Full Course for free 🐬
+### 13. SQL Full Course for free 🐬
 - **URL**: [https://www.youtube.com/watch?v=5OdVJbNCSso](https://www.youtube.com/watch?v=5OdVJbNCSso)
 - **Channel**: Bro Code
 - **Duration**: 3:00:00
@@ -645,7 +686,7 @@
   
   This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-### 13. 99% of Developers Don't Get PostgreSQL
+### 14. 99% of Developers Don't Get PostgreSQL
 - **URL**: [https://www.youtube.com/watch?v=P8rrhZTPEAQ](https://www.youtube.com/watch?v=P8rrhZTPEAQ)
 - **Channel**: The Coding Gopher
 - **Duration**: 12:39
@@ -672,7 +713,7 @@
   https://wealthsimple.com/invite/9AATDX
   (Or use referral code: 𝟵𝗔𝗔𝗧𝗗𝗫)
 
-### 14. 99% Of Devs Don't Understand Spring Boot
+### 15. 99% Of Devs Don't Understand Spring Boot
 - **URL**: [https://www.youtube.com/watch?v=HL5XucT21Zg](https://www.youtube.com/watch?v=HL5XucT21Zg)
 - **Channel**: CodeHead
 - **Duration**: 4:20
@@ -701,7 +742,7 @@
   netflix springboot
   spring initializr
 
-### 15. How I Mastered Data Structures and Algorithms
+### 16. How I Mastered Data Structures and Algorithms
 - **URL**: [https://www.youtube.com/watch?v=F-ao3Q6I2Fc](https://www.youtube.com/watch?v=F-ao3Q6I2Fc)
 - **Channel**: Ashish Pratap Singh
 - **Duration**: 10:44
@@ -753,7 +794,7 @@
   08:36 - How to Retain what you have Learned?
   10:09 - Be Consistent
 
-### 16. you need to learn MCP RIGHT NOW!! (Model Context Protocol)
+### 17. you need to learn MCP RIGHT NOW!! (Model Context Protocol)
 - **URL**: [https://www.youtube.com/watch?v=GuTcle5edjk](https://www.youtube.com/watch?v=GuTcle5edjk)
 - **Channel**: NetworkChuck
 - **Duration**: 38:40
@@ -911,7 +952,7 @@
   
   #MCP #Docker #AI
 
-### 17. Google Chrome MUST Add This Feature
+### 18. Google Chrome MUST Add This Feature
 - **URL**: [https://www.youtube.com/watch?v=pAe5hTqyQDQ](https://www.youtube.com/watch?v=pAe5hTqyQDQ)
 - **Channel**: ThioJoe
 - **Duration**: 4:17
@@ -941,7 +982,7 @@
   ⇨ http://Facebook.com/ThioJoeTV
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 18. If You're in Computer Science, Watch This Now
+### 19. If You're in Computer Science, Watch This Now
 - **URL**: [https://www.youtube.com/watch?v=cGngUYGfU0A](https://www.youtube.com/watch?v=cGngUYGfU0A)
 - **Channel**: The Coding Gopher
 - **Duration**: 7:00
@@ -970,7 +1011,7 @@
   
   ☆ Don't Click Here: https://shorturl.at/aEr3y
 
-### 19. Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial
+### 20. Data Structure and Algorithm Patterns for LeetCode Interviews – Tutorial
 - **URL**: [https://www.youtube.com/watch?v=Z_c4byLrNBU](https://www.youtube.com/watch?v=Z_c4byLrNBU)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 1:15:03
@@ -1026,7 +1067,7 @@
   
   Read hundreds of articles on programming: https://freecodecamp.org/news
 
-### 20. Top 6 Coding Interview Concepts (Data Structures & Algorithms)
+### 21. Top 6 Coding Interview Concepts (Data Structures & Algorithms)
 - **URL**: [https://www.youtube.com/watch?v=ft0owvS5tQA](https://www.youtube.com/watch?v=ft0owvS5tQA)
 - **Channel**: NeetCode
 - **Duration**: 10:50
@@ -1060,7 +1101,7 @@
   #coding #interview #concepts
   Disclosure: Some of the links above may be affiliate links, from which I may earn a small commission.
 
-### 21. Microslop Actually Cooked With This
+### 22. Microslop Actually Cooked With This
 - **URL**: [https://www.youtube.com/watch?v=C239-TOg5Fs](https://www.youtube.com/watch?v=C239-TOg5Fs)
 - **Channel**: SleepyCatHey
 - **Duration**: 3:53
@@ -1106,7 +1147,7 @@
   #️⃣ Tags
   #windows11  #powertoys  #productivitysetup
 
-### 22. Claude Text Watermark - The Science behind it!
+### 23. Claude Text Watermark - The Science behind it!
 - **URL**: [https://www.youtube.com/watch?v=FnAqruxx-QE](https://www.youtube.com/watch?v=FnAqruxx-QE)
 - **Channel**: Code Bear
 - **Duration**: 12:16
@@ -1171,7 +1212,7 @@
   
   #Claude #Anthropic #SynthID #AI #LLM #MachineLearning
 
-### 23. Entire INDIAN Banking System in 18 Mins
+### 24. Entire INDIAN Banking System in 18 Mins
 - **URL**: [https://www.youtube.com/watch?v=eBZKJ9Uxjp4](https://www.youtube.com/watch?v=eBZKJ9Uxjp4)
 - **Channel**: HinExp
 - **Duration**: 18:05
@@ -1236,7 +1277,7 @@
   
   **Keywords:** Indian Banking System, RBI Explained, UPI Explained, Banking History India, How Banks Work, Fractional Reserve Banking, CRR, SLR, SBI History, HDFC Bank, ICICI Bank, Banking Reforms 1991, Nationalization of Banks, Indian Economy, Digital India, Banking Explained, Finance Explained, Economics, UPSC Economy, Banking Documentary.
 
-### 24. The best career advice you never got (your boss won't tell you)
+### 25. The best career advice you never got (your boss won't tell you)
 - **URL**: [https://www.youtube.com/watch?v=y1F9YAT6TLs](https://www.youtube.com/watch?v=y1F9YAT6TLs)
 - **Channel**: Matt Huang
 - **Duration**: 23:47
@@ -1265,7 +1306,7 @@
   
   sub count 176,059
 
-### 25. GPT 5.6 is a BEAST
+### 26. GPT 5.6 is a BEAST
 - **URL**: [https://www.youtube.com/watch?v=SettwwX2cCI](https://www.youtube.com/watch?v=SettwwX2cCI)
 - **Channel**: AI Search
 - **Duration**: 25:59
@@ -1310,7 +1351,7 @@
   Mic: Shure SM7B https://amzn.to/3DErjt1
   Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
-### 26. MySQL: STORED PROCEDURES
+### 27. MySQL: STORED PROCEDURES
 - **URL**: [https://www.youtube.com/watch?v=oagHZwY9JJY](https://www.youtube.com/watch?v=oagHZwY9JJY)
 - **Channel**: Bro Code
 - **Duration**: 8:02
@@ -1354,7 +1395,7 @@
   END $$
   DELIMITER ;
 
-### 27. New #1 open-source AI model is here! GLM 5.2
+### 28. New #1 open-source AI model is here! GLM 5.2
 - **URL**: [https://www.youtube.com/watch?v=6d__WOpZswY](https://www.youtube.com/watch?v=6d__WOpZswY)
 - **Channel**: AI Search
 - **Duration**: 29:57
@@ -1397,7 +1438,7 @@
   Mic: Shure SM7B https://amzn.to/3DErjt1
   Audio interface: Scarlett Solo https://amzn.to/3qELMeu
 
-### 28. This Claude Code Plugin Writes 94% Less Code (ponytail)
+### 29. This Claude Code Plugin Writes 94% Less Code (ponytail)
 - **URL**: [https://www.youtube.com/watch?v=2xuFcmUAQUc](https://www.youtube.com/watch?v=2xuFcmUAQUc)
 - **Channel**: Better Stack
 - **Duration**: 10:07
@@ -1438,7 +1479,7 @@
   08:04 Demo: Caveman + Ponytail Combined
   08:58 Final Verdict
 
-### 29. What the f*ck is .DJVU and how does it work...
+### 30. What the f*ck is .DJVU and how does it work...
 - **URL**: [https://www.youtube.com/watch?v=8ZhyYCSAEs4](https://www.youtube.com/watch?v=8ZhyYCSAEs4)
 - **Channel**: NotHeffley
 - **Duration**: 1:11
@@ -1483,7 +1524,7 @@
   
   plenty of free, open-source apps open them instantly on your phone or laptop.
 
-### 30. STOP Using LeetCode In 2026, DO THIS Instead.
+### 31. STOP Using LeetCode In 2026, DO THIS Instead.
 - **URL**: [https://www.youtube.com/watch?v=T85LFJJ7YGg](https://www.youtube.com/watch?v=T85LFJJ7YGg)
 - **Channel**: Vivek Gupta
 - **Duration**: 7:27
@@ -1544,7 +1585,7 @@
   #️⃣ HASHTAGS
   #coding #programming #softwareengineer
 
-### 31. Online Banking System with Microservices | Course Overview
+### 32. Online Banking System with Microservices | Course Overview
 - **URL**: [https://www.youtube.com/watch?v=e04hIXhz9Q0](https://www.youtube.com/watch?v=e04hIXhz9Q0)
 - **Channel**: Bank Stack
 - **Duration**: 2:04
@@ -1584,7 +1625,7 @@
   #SoftwareArchitecture
   #microservices
 
-### 32. 6 SQL Joins you MUST know! (Animated + Practice)
+### 33. 6 SQL Joins you MUST know! (Animated + Practice)
 - **URL**: [https://www.youtube.com/watch?v=Yh4CrPHVBdE](https://www.youtube.com/watch?v=Yh4CrPHVBdE)
 - **Channel**: Anton Putra
 - **Duration**: 9:47
@@ -1628,7 +1669,7 @@
   
   #sql #sqljoins #rdbms
 
-### 33. Roadmap for Learning SQL
+### 34. Roadmap for Learning SQL
 - **URL**: [https://www.youtube.com/watch?v=yMqldbY2AAg](https://www.youtube.com/watch?v=yMqldbY2AAg)
 - **Channel**: ByteByteGo
 - **Duration**: 4:52
@@ -1650,7 +1691,7 @@
   ABOUT US: 
   Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview series.
 
-### 34. Merge Sort Algorithm in Java - Full Tutorial with Source
+### 35. Merge Sort Algorithm in Java - Full Tutorial with Source
 - **URL**: [https://www.youtube.com/watch?v=bOk35XmHPKs](https://www.youtube.com/watch?v=bOk35XmHPKs)
 - **Channel**: Coding with John
 - **Duration**: 23:02
@@ -1703,7 +1744,7 @@
   
   https://codingwithjohn.com
 
-### 35. Quicksort Sort Algorithm in Java - Full Tutorial With Source
+### 36. Quicksort Sort Algorithm in Java - Full Tutorial With Source
 - **URL**: [https://www.youtube.com/watch?v=h8eyY7dIiN4](https://www.youtube.com/watch?v=h8eyY7dIiN4)
 - **Channel**: Coding with John
 - **Duration**: 24:58
@@ -1760,7 +1801,7 @@
   
   https://codingwithjohn.com
 
-### 36. Master Java Collections Framework in 3 Hours 🔥🔥 | Full Course in Depth | For DSA | Java Tutorial
+### 37. Master Java Collections Framework in 3 Hours 🔥🔥 | Full Course in Depth | For DSA | Java Tutorial
 - **URL**: [https://www.youtube.com/watch?v=VE_AAUxTUCY](https://www.youtube.com/watch?v=VE_AAUxTUCY)
 - **Channel**: Riddhi Dutta
 - **Duration**: 2:56:12
@@ -1843,7 +1884,7 @@
   java full stack developer roadmap
   java full stack project
 
-### 37. Linked List Tutorial - Singly + Doubly + Circular (Theory + Code + Implementation)
+### 38. Linked List Tutorial - Singly + Doubly + Circular (Theory + Code + Implementation)
 - **URL**: [https://www.youtube.com/watch?v=58YbpRDc4yw](https://www.youtube.com/watch?v=58YbpRDc4yw)
 - **Channel**: Kunal Kushwaha
 - **Duration**: 1:55:57
@@ -1890,7 +1931,7 @@
   
   #placement #dsa #interviews
 
-### 38. Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial
+### 39. Create a Sudoku Solver In Java In 20 Minutes - Full Tutorial
 - **URL**: [https://www.youtube.com/watch?v=mcXc8Mva2bA](https://www.youtube.com/watch?v=mcXc8Mva2bA)
 - **Channel**: Coding with John
 - **Duration**: 20:25
@@ -1944,7 +1985,7 @@
   
   https://codingwithjohn.com
 
-### 39. Java 25 is here
+### 40. Java 25 is here
 - **URL**: [https://www.youtube.com/watch?v=BOErAo3MJvM](https://www.youtube.com/watch?v=BOErAo3MJvM)
 - **Channel**: Telusko
 - **Duration**: 14:36
@@ -1977,7 +2018,7 @@
   TELUSKO IOS App : https://apple.co/3SsgmU2
   Discord : https://discord.gg/D8hWe9BqfF
 
-### 40. Every Type of API Simply Explained in 9 Minutes!
+### 41. Every Type of API Simply Explained in 9 Minutes!
 - **URL**: [https://www.youtube.com/watch?v=pBASqUbZgkY](https://www.youtube.com/watch?v=pBASqUbZgkY)
 - **Channel**: Codist 
 - **Duration**: 9:54
@@ -2006,7 +2047,7 @@
   
   #RESTAPI #SOAPAPI #gRPC #GraphQL #WebHooks #WebSocket #WebRTC #APIExplained #WebDevelopment #Programming #SoftwareEngineering
 
-### 41. I Interviewed 300 People from Different Salary Brackets | What I Found
+### 42. I Interviewed 300 People from Different Salary Brackets | What I Found
 - **URL**: [https://www.youtube.com/watch?v=umejNI-fafg](https://www.youtube.com/watch?v=umejNI-fafg)
 - **Channel**: Harkirat Singh
 - **Duration**: 11:13
@@ -2038,7 +2079,7 @@
   
   Video Credits ( Edit and Research ) - https://x.com/Alam_YTA
 
-### 42. Static vs Non-Static Variables and Methods In Java - Full Simple Tutorial
+### 43. Static vs Non-Static Variables and Methods In Java - Full Simple Tutorial
 - **URL**: [https://www.youtube.com/watch?v=-Y67pdWHr9Y](https://www.youtube.com/watch?v=-Y67pdWHr9Y)
 - **Channel**: Coding with John
 - **Duration**: 11:29
@@ -2098,7 +2139,7 @@
   
   https://codingwithjohn.com
 
-### 43. Git Will Finally Make Sense After This
+### 44. Git Will Finally Make Sense After This
 - **URL**: [https://www.youtube.com/watch?v=Ala6PHlYjmw](https://www.youtube.com/watch?v=Ala6PHlYjmw)
 - **Channel**: LearnThatStack
 - **Duration**: 13:25
@@ -2141,7 +2182,7 @@
   
   #git #gittutorial #gitforbeginners #programming #coding #developer #softwareengineering #learntocode #gitrebase #gitreset #computerscience #devtools #tech #webdevelopment
 
-### 44. The fastest sorting algorithm
+### 45. The fastest sorting algorithm
 - **URL**: [https://www.youtube.com/watch?v=Y95a-8oNqps](https://www.youtube.com/watch?v=Y95a-8oNqps)
 - **Channel**: Polylog
 - **Duration**: 17:13
@@ -2197,7 +2238,7 @@
   15:38 80,000 Hours
   16:45 Thanks
 
-### 45. How I Optimized my LinkedIn Profile and Got 20+ Interview Calls
+### 46. How I Optimized my LinkedIn Profile and Got 20+ Interview Calls
 - **URL**: [https://www.youtube.com/watch?v=dQ6RNltrXro](https://www.youtube.com/watch?v=dQ6RNltrXro)
 - **Channel**: Ashish Pratap Singh
 - **Duration**: 8:52
@@ -2255,7 +2296,7 @@
   08:19 - Tip 12 - Stay Updated
   08:35 - Conclusion
 
-### 46. Spring Boot Deep Dive | How It Simplifies Java Apps & Microservices
+### 47. Spring Boot Deep Dive | How It Simplifies Java Apps & Microservices
 - **URL**: [https://www.youtube.com/watch?v=xYv3tBvJavM](https://www.youtube.com/watch?v=xYv3tBvJavM)
 - **Channel**: ByteMonk
 - **Duration**: 14:41
@@ -2304,7 +2345,7 @@
   
   #SpringBoot #JavaDevelopment #SystemDesign #SpringFramework #microservices
 
-### 47. 99% of Developers Don't Get Sockets
+### 48. 99% of Developers Don't Get Sockets
 - **URL**: [https://www.youtube.com/watch?v=D26sUZ6DHNQ](https://www.youtube.com/watch?v=D26sUZ6DHNQ)
 - **Channel**: The Coding Gopher
 - **Duration**: 12:05
@@ -2328,7 +2369,7 @@
   
   👩‍💻 Learn to Code: https://scrimba.com/?via=thecodinggopher (20% OFF)
 
-### 48. CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Deployments
+### 49. CI/CD Tutorial using GitHub Actions - Automated Testing & Automated Deployments
 - **URL**: [https://www.youtube.com/watch?v=YLtlz88zrLg](https://www.youtube.com/watch?v=YLtlz88zrLg)
 - **Channel**: Tom Shaw
 - **Duration**: 6:13
@@ -2354,7 +2395,7 @@
   
   Learning CI/CD is one of the most important tips that I have for helping you to become a better programmer!
 
-### 49. How to Learn DSA So Fast It Feels Like Cheating
+### 50. How to Learn DSA So Fast It Feels Like Cheating
 - **URL**: [https://www.youtube.com/watch?v=hFidqBJ7qfI](https://www.youtube.com/watch?v=hFidqBJ7qfI)
 - **Channel**: Manware
 - **Duration**: 6:10
@@ -2395,7 +2436,7 @@
   
   Still reading? You weirdo...
 
-### 50. 5 Simple Steps for Solving Any Recursive Problem
+### 51. 5 Simple Steps for Solving Any Recursive Problem
 - **URL**: [https://www.youtube.com/watch?v=ngCos392W4w](https://www.youtube.com/watch?v=ngCos392W4w)
 - **Channel**: Reducible
 - **Duration**: 21:03
@@ -2419,7 +2460,7 @@
   Cobweb Morning by Kai Engel
   https://freemusicarchive.org/music/Kai_Engel/Chapter_Four__Fall/Kai_Engel_-_Chapter_Four_-_Fall_-_04_Cobweb_Morning
 
-### 51. Java Developer Roadmap 2026
+### 52. Java Developer Roadmap 2026
 - **URL**: [https://www.youtube.com/watch?v=YobSsgqLBwo](https://www.youtube.com/watch?v=YobSsgqLBwo)
 - **Channel**: Telusko Alien
 - **Duration**: 12:52
@@ -2474,7 +2515,7 @@
   
   #java  #javadeveloper  #Javaroadmap #springframework  #springboot  #backenddevelopment  #enterprisejava  #programming  #telusko
 
-### 52. 11 CRAZY Backend Project Ideas That Pushes Your Limits
+### 53. 11 CRAZY Backend Project Ideas That Pushes Your Limits
 - **URL**: [https://www.youtube.com/watch?v=NULWyn8Hqs8](https://www.youtube.com/watch?v=NULWyn8Hqs8)
 - **Channel**: Manware
 - **Duration**: 12:23
@@ -2526,7 +2567,7 @@
   
   Still reading? You weirdo...
 
-### 53. Master Agentic AI with Java Live Course
+### 54. Master Agentic AI with Java Live Course
 - **URL**: [https://www.youtube.com/watch?v=9hUw2j9Y2y0](https://www.youtube.com/watch?v=9hUw2j9Y2y0)
 - **Channel**: Telusko
 - **Duration**: 11:44
@@ -2569,42 +2610,6 @@
   WhatsApp : https://go.telusko.com/whatsapp
   Discord : https://discord.gg/D8hWe9BqfF
 
-### 54. 6 Minutes to Finally Understand SOLID Principles
-- **URL**: [https://www.youtube.com/watch?v=K7iVBAQHN8I](https://www.youtube.com/watch?v=K7iVBAQHN8I)
-- **Channel**: Neural Download
-- **Duration**: 6:16
-- **Views**: 52,060
-- **Likes**: 1,915
-- **Comments**: 44
-- **Thumbnail**: [View Image](https://i.ytimg.com/vi/K7iVBAQHN8I/maxresdefault.jpg)
-- **Description**:
-  Five rules that prevent your code from becoming an unmaintainable nightmare. Most developers get every single one wrong.
-  
-  SRP isn't "one method per class." Open/Closed doesn't mean never modify code. And Liskov Substitution? That Square extends Rectangle example hides a devastating bug.
-  
-  0:00 Intro
-  0:02 The God Class
-  0:53 Single Responsibility
-  2:01 Open/Closed
-  3:05 Liskov Substitution
-  4:18 Interface Segregation + Dependency Inversion
-  6:03 Outro
-  
-  → What you'll learn:
-  → Why a 2000-line God class is a ticking time bomb
-  → The real meaning of "one reason to change"
-  → How polymorphism replaces brittle switch statements
-  → The Square/Rectangle bug that breaks Liskov
-  → Why dependency arrows should point toward abstractions
-  → When SOLID principles actually make your code worse
-  
-  References:
-  → Robert C. Martin — Clean Architecture
-  → Barbara Liskov — "Data Abstraction and Hierarchy" (1987)
-  → Dan North — CUPID: Properties of Good Code
-  
-  #SOLIDPrinciples #CleanCode #SoftwareDesign
-
 ### 55. 6 Minutes to Finally Understand SOLID Principles
 - **URL**: [https://www.youtube.com/watch?v=K7iVBAQHN8I](https://www.youtube.com/watch?v=K7iVBAQHN8I)
 - **Channel**: Neural Download
@@ -2641,7 +2646,43 @@
   
   #SOLIDPrinciples #CleanCode #SoftwareDesign
 
-### 56. Complete Java Development: Spring Boot, Microservices, Spring AI 
+### 56. 6 Minutes to Finally Understand SOLID Principles
+- **URL**: [https://www.youtube.com/watch?v=K7iVBAQHN8I](https://www.youtube.com/watch?v=K7iVBAQHN8I)
+- **Channel**: Neural Download
+- **Duration**: 6:16
+- **Views**: 52,060
+- **Likes**: 1,915
+- **Comments**: 44
+- **Thumbnail**: [View Image](https://i.ytimg.com/vi/K7iVBAQHN8I/maxresdefault.jpg)
+- **Description**:
+  Five rules that prevent your code from becoming an unmaintainable nightmare. Most developers get every single one wrong.
+  
+  SRP isn't "one method per class." Open/Closed doesn't mean never modify code. And Liskov Substitution? That Square extends Rectangle example hides a devastating bug.
+  
+  0:00 Intro
+  0:02 The God Class
+  0:53 Single Responsibility
+  2:01 Open/Closed
+  3:05 Liskov Substitution
+  4:18 Interface Segregation + Dependency Inversion
+  6:03 Outro
+  
+  → What you'll learn:
+  → Why a 2000-line God class is a ticking time bomb
+  → The real meaning of "one reason to change"
+  → How polymorphism replaces brittle switch statements
+  → The Square/Rectangle bug that breaks Liskov
+  → Why dependency arrows should point toward abstractions
+  → When SOLID principles actually make your code worse
+  
+  References:
+  → Robert C. Martin — Clean Architecture
+  → Barbara Liskov — "Data Abstraction and Hierarchy" (1987)
+  → Dan North — CUPID: Properties of Good Code
+  
+  #SOLIDPrinciples #CleanCode #SoftwareDesign
+
+### 57. Complete Java Development: Spring Boot, Microservices, Spring AI 
 - **URL**: [https://www.youtube.com/watch?v=q6z_UCBM5Ek](https://www.youtube.com/watch?v=q6z_UCBM5Ek)
 - **Channel**: Telusko
 - **Duration**: 62:55:08
@@ -2729,7 +2770,7 @@
   WhatsApp : https://go.telusko.com/whatsapp
   Discord : https://discord.gg/D8hWe9BqfF
 
-### 57. Turn Off This Parasite on Every Phone! Developers Don’t Want You to Know This
+### 58. Turn Off This Parasite on Every Phone! Developers Don’t Want You to Know This
 - **URL**: [https://www.youtube.com/watch?v=H92_izcZCSU](https://www.youtube.com/watch?v=H92_izcZCSU)
 - **Channel**: ANDROID MAN
 - **Duration**: 3:04
@@ -2750,7 +2791,7 @@
   https://youtu.be/LdyEffNoi2A
   🟢How to speed up your smartphone's internet Enable this hidden DNS setting: https://youtu.be/FApBXiJHS2A
 
-### 58. Use Local LLMs Already!
+### 59. Use Local LLMs Already!
 - **URL**: [https://www.youtube.com/watch?v=pfxgLX-MxMY](https://www.youtube.com/watch?v=pfxgLX-MxMY)
 - **Channel**: The Art Of The Terminal
 - **Duration**: 56:31
@@ -2792,7 +2833,7 @@
   00:50:41 - Debugging, Editing, OCRing with local LLMs
   00:54:38 - AI: hope, threat or...?
 
-### 59. BS-21. Median of two Sorted Arrays of Different Sizes | Binary Search Approach With Intuition
+### 60. BS-21. Median of two Sorted Arrays of Different Sizes | Binary Search Approach With Intuition
 - **URL**: [https://www.youtube.com/watch?v=F9c7LpRZWVQ](https://www.youtube.com/watch?v=F9c7LpRZWVQ)
 - **Channel**: take U forward
 - **Duration**: 35:00
@@ -2814,7 +2855,7 @@
   
   Join our Discord Channel - https://discord.gg/GgyQAGEdbG
 
-### 60. 20 Windows Settings You Should Change Now!
+### 61. 20 Windows Settings You Should Change Now!
 - **URL**: [https://www.youtube.com/watch?v=AyAO9j_QsK4](https://www.youtube.com/watch?v=AyAO9j_QsK4)
 - **Channel**: ThioJoe
 - **Duration**: 12:33
@@ -2850,7 +2891,7 @@
   10:38 - Bonus: Disable Start Menu Web Results
   11:24 - PSA About Running Commands
 
-### 61. ElevenLabs just got nuked by open source
+### 62. ElevenLabs just got nuked by open source
 - **URL**: [https://www.youtube.com/watch?v=dQ841Pd6YvQ](https://www.youtube.com/watch?v=dQ841Pd6YvQ)
 - **Channel**: Jeff Geerling
 - **Duration**: 3:28
@@ -2871,7 +2912,7 @@
   2nd Channel: https://www.youtube.com/@GeerlingEngineering
   3rd Channel: https://www.youtube.com/@Level2Jeff
 
-### 62. System Design Concepts Course and Interview Prep
+### 63. System Design Concepts Course and Interview Prep
 - **URL**: [https://www.youtube.com/watch?v=F2FmTdLtb_4](https://www.youtube.com/watch?v=F2FmTdLtb_4)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 53:38
@@ -2921,7 +2962,7 @@
   
   Read hundreds of articles on programming: https://freecodecamp.org/news
 
-### 63. Learn SQL Beginner to Advanced in Under 4 Hours
+### 64. Learn SQL Beginner to Advanced in Under 4 Hours
 - **URL**: [https://www.youtube.com/watch?v=OT1RErkfLNQ](https://www.youtube.com/watch?v=OT1RErkfLNQ)
 - **Channel**: Alex The Analyst
 - **Duration**: 4:04:58
@@ -2995,7 +3036,7 @@
   
   *All opinions or statements in this video are my own and do not reflect the opinion of the company I work for or have ever worked for*
 
-### 64. How hackers reverse Math.random()
+### 65. How hackers reverse Math.random()
 - **URL**: [https://www.youtube.com/watch?v=XDsYPXRCXAs](https://www.youtube.com/watch?v=XDsYPXRCXAs)
 - **Channel**: Zanzlanz
 - **Duration**: 15:29
@@ -3062,7 +3103,7 @@
   
   #programming #gamedev #cryptography
 
-### 65. Semi-Legal Ways to Get a CS Job in 2025
+### 66. Semi-Legal Ways to Get a CS Job in 2025
 - **URL**: [https://www.youtube.com/watch?v=uPKfvhY0FX8](https://www.youtube.com/watch?v=uPKfvhY0FX8)
 - **Channel**: Manware
 - **Duration**: 6:39
@@ -3103,7 +3144,7 @@
   
   Still reading? You weirdo...
 
-### 66. Your Android Phone shoots better video than an iPhone.
+### 67. Your Android Phone shoots better video than an iPhone.
 - **URL**: [https://www.youtube.com/watch?v=POvKa8He2TQ](https://www.youtube.com/watch?v=POvKa8He2TQ)
 - **Channel**: AllexB
 - **Duration**: 10:00
@@ -3155,7 +3196,7 @@
   
   Some links in this description may be affiliate links. This is a great way to support the channel directly and helps fund future videos, at no additional cost to you.
 
-### 67. The Most Satisfying Button You’ll Ever See
+### 68. The Most Satisfying Button You’ll Ever See
 - **URL**: [https://www.youtube.com/watch?v=ELevMvaXrm0](https://www.youtube.com/watch?v=ELevMvaXrm0)
 - **Channel**: Snippets Code
 - **Duration**: 2:54
@@ -3175,7 +3216,7 @@
   For Business 💼:
   snippetsdevelop@gmail.com
 
-### 68. Web Components #coding  #programming #javascript
+### 69. Web Components #coding  #programming #javascript
 - **URL**: [https://www.youtube.com/watch?v=bk7dhtZZZBg](https://www.youtube.com/watch?v=bk7dhtZZZBg)
 - **Channel**: Meme Dev
 - **Duration**: 0:38
@@ -3184,7 +3225,7 @@
 - **Comments**: 0
 - **Thumbnail**: [View Image](https://i.ytimg.com/vi/bk7dhtZZZBg/maxresdefault.jpg)
 
-### 69. Gemini 3 is Official: EVERYTHING New!
+### 70. Gemini 3 is Official: EVERYTHING New!
 - **URL**: [https://www.youtube.com/watch?v=CXUv2MMMaug](https://www.youtube.com/watch?v=CXUv2MMMaug)
 - **Channel**: 9to5Google
 - **Duration**: 8:16
@@ -3243,7 +3284,7 @@
   6:14 - General Changes
   6:54 - Closing
 
-### 70. Did Google just kill OpenAI?
+### 71. Did Google just kill OpenAI?
 - **URL**: [https://www.youtube.com/watch?v=bsL7ZnKIAhs](https://www.youtube.com/watch?v=bsL7ZnKIAhs)
 - **Channel**: Fireship
 - **Duration**: 4:06
@@ -3281,7 +3322,7 @@
   - Gemini 3 benchmarks
   - Google Antigravity
 
-### 71. LLMs are in trouble
+### 72. LLMs are in trouble
 - **URL**: [https://www.youtube.com/watch?v=o2s8I6yBrxE](https://www.youtube.com/watch?v=o2s8I6yBrxE)
 - **Channel**: The PrimeTime
 - **Duration**: 11:17
@@ -3307,7 +3348,7 @@
   
   Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 
-### 72. Why I uninstalled ublock origin, this is WAY better! 
+### 73. Why I uninstalled ublock origin, this is WAY better! 
 - **URL**: [https://www.youtube.com/watch?v=7GeCq1qwqjc](https://www.youtube.com/watch?v=7GeCq1qwqjc)
 - **Channel**: Louis Rossmann
 - **Duration**: 5:54
@@ -3318,7 +3359,7 @@
 - **Description**:
   https://adnauseam.io/
 
-### 73. 21-year old dev destroys LeetCode, gets kicked out of school...
+### 74. 21-year old dev destroys LeetCode, gets kicked out of school...
 - **URL**: [https://www.youtube.com/watch?v=AwZ8PtoqCeU](https://www.youtube.com/watch?v=AwZ8PtoqCeU)
 - **Channel**: Fireship
 - **Duration**: 3:55
@@ -3362,7 +3403,7 @@
   - How do I get a job with a FAANG company?
   - How do people cheat on technical interviews?
 
-### 74. Your Android Phone Tracking You and Listening. TURN THIS OFF
+### 75. Your Android Phone Tracking You and Listening. TURN THIS OFF
 - **URL**: [https://www.youtube.com/watch?v=Es_uQAQkNXo](https://www.youtube.com/watch?v=Es_uQAQkNXo)
 - **Channel**: Useful Things
 - **Duration**: 3:42
@@ -3374,7 +3415,7 @@
   In this video - android settings you need to turn off now or is someone tapping or tracking my android phone. How to turn off or stop tracking  android phone and what to do if  phone spy on you, how to stop android apps from spying or how to stop phone tapping. What to do when  my android phone is hacked or my phone is listening to conversations. ✅Support the channel and unlock bonuses - https://bit.ly/3VwyDAo
   ✅For cooperation email me here - usefulthingsen@gmail.com
 
-### 75. Your Programming Language Can't Understand You...
+### 76. Your Programming Language Can't Understand You...
 - **URL**: [https://www.youtube.com/watch?v=rv3S1HVxwD4](https://www.youtube.com/watch?v=rv3S1HVxwD4)
 - **Channel**: LaurieWired
 - **Duration**: 30:15
@@ -3409,7 +3450,7 @@
   My GitHub of all example code:
   https://github.com/LaurieWired/SyntaxParsingAmbiguities
 
-### 76. Lecture #9: How to Read so that you *Retain* Information
+### 77. Lecture #9: How to Read so that you *Retain* Information
 - **URL**: [https://www.youtube.com/watch?v=uiNB-6SuqVA](https://www.youtube.com/watch?v=uiNB-6SuqVA)
 - **Channel**: Jeffrey Kaplan
 - **Duration**: 23:20
@@ -3423,7 +3464,7 @@
   
   This is the ninth in a series of lectures, intended for first-year college students, tentatively titled "How to Do Well in College." This lecture, however, applies to anyone who reads anything. In it, I recommend a specific version of marginalia, whereby one summarizes information in the margins of texts. This forces the reader to engage with the meaning or content of what they are reading and therefore absorb the material. I also tell a story about an economics course that I took in college, and there is a bonus rant about how speed reading is a scam.
 
-### 77. Google GAVE Gemini Access to Your Apps on Android! Do THIS to Block it!!!
+### 78. Google GAVE Gemini Access to Your Apps on Android! Do THIS to Block it!!!
 - **URL**: [https://www.youtube.com/watch?v=XdThsNhoP8Y](https://www.youtube.com/watch?v=XdThsNhoP8Y)
 - **Channel**: Doug Lynch is Explaining Android
 - **Duration**: 10:17
@@ -3495,7 +3536,7 @@
   Fast Charger - https://amzn.to/3rtBsC6
   USB-C Cable - https://amzn.to/2OqlTvi
 
-### 78. Master ChatGPT in 1 minute‼️
+### 79. Master ChatGPT in 1 minute‼️
 - **URL**: [https://www.youtube.com/watch?v=IBTvDBfX5EM](https://www.youtube.com/watch?v=IBTvDBfX5EM)
 - **Channel**: Mr Techpedia
 - **Duration**: 0:37
@@ -3504,7 +3545,7 @@
 - **Comments**: 100
 - **Thumbnail**: [View Image](https://i.ytimg.com/vi/IBTvDBfX5EM/maxresdefault.jpg)
 
-### 79. Cursor 2.0 is here... 5 things you didn't know it can do
+### 80. Cursor 2.0 is here... 5 things you didn't know it can do
 - **URL**: [https://www.youtube.com/watch?v=HIp8sFB2GGw](https://www.youtube.com/watch?v=HIp8sFB2GGw)
 - **Channel**: Fireship
 - **Duration**: 4:36
@@ -3547,7 +3588,7 @@
   - Parallel Agents
   - In-editor Bugbot
 
-### 80. AI INTERVIEW CHEATING ON THE RISE (AND I SHOW YOU HOW)
+### 81. AI INTERVIEW CHEATING ON THE RISE (AND I SHOW YOU HOW)
 - **URL**: [https://www.youtube.com/watch?v=1LKruiR_4hA](https://www.youtube.com/watch?v=1LKruiR_4hA)
 - **Channel**: Joshua Fluke
 - **Duration**: 10:19
@@ -3586,7 +3627,7 @@
   
   So if you’ve ever been ghosted after talking to a glorified chatbot, this one’s for you.
 
-### 81. Introduction to Recursion - Learn In The Best Way
+### 82. Introduction to Recursion - Learn In The Best Way
 - **URL**: [https://www.youtube.com/watch?v=M2uO2nMT0Bk](https://www.youtube.com/watch?v=M2uO2nMT0Bk)
 - **Channel**: Kunal Kushwaha
 - **Duration**: 1:55:49
@@ -3637,7 +3678,7 @@
   
   #placement #dsa #interviews
 
-### 82. How to make vibe coding not suck…
+### 83. How to make vibe coding not suck…
 - **URL**: [https://www.youtube.com/watch?v=PLKrSVuT-Dg](https://www.youtube.com/watch?v=PLKrSVuT-Dg)
 - **Channel**: Fireship
 - **Duration**: 5:44
@@ -3691,7 +3732,7 @@
   - Programming with ai
   - Best MCP servers for developers
 
-### 83. What every Entry-Level Software Engineer should know right now?
+### 84. What every Entry-Level Software Engineer should know right now?
 - **URL**: [https://www.youtube.com/watch?v=yeHNPnfiYcA](https://www.youtube.com/watch?v=yeHNPnfiYcA)
 - **Channel**: Anuj Kumar Sharma
 - **Duration**: 15:18
@@ -3730,7 +3771,7 @@
   
   #ai #softwareengineering #entryleveljobs
 
-### 84. EXACTLY How To Negotiate Your Salary: Watch and Learn
+### 85. EXACTLY How To Negotiate Your Salary: Watch and Learn
 - **URL**: [https://www.youtube.com/watch?v=kBIN2h16Rc4](https://www.youtube.com/watch?v=kBIN2h16Rc4)
 - **Channel**: Full Disclosure
 - **Duration**: 12:12
@@ -3753,7 +3794,7 @@
   - Full Disclosure:  https://www.instagram.com/fulldisclosure.ig/
   - Loveena Kamath: https://www.instagram.com/loveenakamath/
 
-### 85. You're Using AI WRONG - Surprising Capabilities You Didn't Know
+### 86. You're Using AI WRONG - Surprising Capabilities You Didn't Know
 - **URL**: [https://www.youtube.com/watch?v=YDiVl9q08DY](https://www.youtube.com/watch?v=YDiVl9q08DY)
 - **Channel**: ThioJoe
 - **Duration**: 5:50
@@ -3778,7 +3819,7 @@
   3:52 - Unicode Inspector
   4:15 - GitHub Repo Explorer
 
-### 86. Don't start solving leetcode problems without knowing those patterns
+### 87. Don't start solving leetcode problems without knowing those patterns
 - **URL**: [https://www.youtube.com/watch?v=AbYEvu7NkUY](https://www.youtube.com/watch?v=AbYEvu7NkUY)
 - **Channel**: CodeRaw
 - **Duration**: 5:05
@@ -3801,7 +3842,7 @@
   03:55 Linked List Reversal
   04:55 Outro
 
-### 87. Nobody Understands Online Privacy.
+### 88. Nobody Understands Online Privacy.
 - **URL**: [https://www.youtube.com/watch?v=H414XdcbC4Q](https://www.youtube.com/watch?v=H414XdcbC4Q)
 - **Channel**: Eric Murphy
 - **Duration**: 14:11
@@ -3837,7 +3878,7 @@
   13:16 Can we improve discussions about privacy?
   14:00 Conclusion
 
-### 88. Digital Bank API Roadmap: A Step-by-Step Guide to Enterprise Architecture
+### 89. Digital Bank API Roadmap: A Step-by-Step Guide to Enterprise Architecture
 - **URL**: [https://www.youtube.com/watch?v=qB2JO_rp3pc](https://www.youtube.com/watch?v=qB2JO_rp3pc)
 - **Channel**: Bank Stack
 - **Duration**: 1:30
@@ -3877,7 +3918,7 @@
   
   #BankStack #DigitalBank #SpringBoot #Auth0 #Kubernetes #Microservices #OpenBanking #FDX #Payments #RTR #AFT #BillPay #Fintech
 
-### 89. I Made a 404 Page That Lets You Set it on Fire
+### 90. I Made a 404 Page That Lets You Set it on Fire
 - **URL**: [https://www.youtube.com/watch?v=MS9I97-nbTM](https://www.youtube.com/watch?v=MS9I97-nbTM)
 - **Channel**: Patrick Gillespie
 - **Duration**: 1:59
@@ -3892,7 +3933,7 @@
   
   https://fabiensanglard.net/doom_fire_psx/ - Blog entry that details how the Doom Fire algorithm works.
 
-### 90. this website is insane (stack explained)
+### 91. this website is insane (stack explained)
 - **URL**: [https://www.youtube.com/watch?v=HzL65tTeANs](https://www.youtube.com/watch?v=HzL65tTeANs)
 - **Channel**: Syntax
 - **Duration**: 14:29
@@ -3932,7 +3973,7 @@
   
   #webdevelopment #webdeveloper #javascript #syntax #syntaxfm #webdev
 
-### 91. Your Phone’s Camera is Always on and Spying on you. Turn this OFF!
+### 92. Your Phone’s Camera is Always on and Spying on you. Turn this OFF!
 - **URL**: [https://www.youtube.com/watch?v=JfFYyUvCSS8](https://www.youtube.com/watch?v=JfFYyUvCSS8)
 - **Channel**: Useful Things
 - **Duration**: 5:27
@@ -3945,7 +3986,7 @@
   ✅Support the channel and unlock bonuses - https://bit.ly/3VwyDAo
   ✅For cooperation email me here - usefulthingsen@gmail.com
 
-### 92. The Biggest Windows Update for 2025 is Here!
+### 93. The Biggest Windows Update for 2025 is Here!
 - **URL**: [https://www.youtube.com/watch?v=bkWsztUebkI](https://www.youtube.com/watch?v=bkWsztUebkI)
 - **Channel**: Sillycorns
 - **Duration**: 7:06
@@ -3970,7 +4011,7 @@
   
   #Sillycorns
 
-### 93. n8n will change your life as a developer...
+### 94. n8n will change your life as a developer...
 - **URL**: [https://www.youtube.com/watch?v=bS9R6aCVEzw](https://www.youtube.com/watch?v=bS9R6aCVEzw)
 - **Channel**: Fireship
 - **Duration**: 5:56
@@ -4012,7 +4053,7 @@
   - Crazy ways to use n8n
   -  n8n Linux VPS install
 
-### 94. Why 95% NEVER Get Rich (You Will)
+### 95. Why 95% NEVER Get Rich (You Will)
 - **URL**: [https://www.youtube.com/watch?v=GVzpEoggYRY](https://www.youtube.com/watch?v=GVzpEoggYRY)
 - **Channel**: MindFlow
 - **Duration**: 11:30
@@ -4069,7 +4110,7 @@
   
   #responsibility #ownership #choosewisely #personalgrowth #selfimprovement #mentalhealth
 
-### 95. Applying Junior Developer Jobs in 2025 Be Like
+### 96. Applying Junior Developer Jobs in 2025 Be Like
 - **URL**: [https://www.youtube.com/watch?v=VWWbLykNKgI](https://www.youtube.com/watch?v=VWWbLykNKgI)
 - **Channel**: Developer Timeline
 - **Duration**: 1:23
@@ -4087,7 +4128,7 @@
   Join this channel to get access to perks:
   https://www.youtube.com/channel/UCEwYRHE5ZAOMfUaIpCQvjEQ/join
 
-### 96. You Were the Smart Kid. So Why Do You Feel So Lost Now?
+### 97. You Were the Smart Kid. So Why Do You Feel So Lost Now?
 - **URL**: [https://www.youtube.com/watch?v=U4PsIm9dDvs](https://www.youtube.com/watch?v=U4PsIm9dDvs)
 - **Channel**: Let's Talk Psychology Podcast
 - **Duration**: 10:01
@@ -4113,7 +4154,7 @@
   
   👇 If something here resonates, leave a comment. I’d love to hear what part stood out to you.
 
-### 97. 70 Leetcode problems in 5+ hours (every data structure) (full tutorial)
+### 98. 70 Leetcode problems in 5+ hours (every data structure) (full tutorial)
 - **URL**: [https://www.youtube.com/watch?v=lvO88XxNAzs](https://www.youtube.com/watch?v=lvO88XxNAzs)
 - **Channel**: stoney codes
 - **Duration**: 5:27:20
@@ -4205,7 +4246,7 @@
   5:20:42 Course Schedule
   5:26:43 Outro
 
-### 98. The Most Common Mistakes Junior Devs Do
+### 99. The Most Common Mistakes Junior Devs Do
 - **URL**: [https://www.youtube.com/watch?v=p8ghbz2WPJ4](https://www.youtube.com/watch?v=p8ghbz2WPJ4)
 - **Channel**: CodeHead
 - **Duration**: 4:21
@@ -4219,7 +4260,7 @@
   👉I made a Discord server for all of you code heads to join: https://discord.gg/MfCKFK2fTe
   👉Buy this tired Code Head a ☕: https://buymeacoffee.com/codehead
 
-### 99. What Actually Matters in Your 20s (It’s Not What You Think)
+### 100. What Actually Matters in Your 20s (It’s Not What You Think)
 - **URL**: [https://www.youtube.com/watch?v=PB-Fb_5u97Q](https://www.youtube.com/watch?v=PB-Fb_5u97Q)
 - **Channel**: MindFlow
 - **Duration**: 17:07
@@ -4272,7 +4313,7 @@
   
   #choosewisely #simpleguide #personalgrowth #selfimprovement #mentalhealth
 
-### 100. Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU
+### 101. Learning Software Engineering During the Era of AI | Raymond Fu | TEDxCSTU
 - **URL**: [https://www.youtube.com/watch?v=w4rG5GY9IlA](https://www.youtube.com/watch?v=w4rG5GY9IlA)
 - **Channel**: TEDx Talks
 - **Duration**: 12:27
@@ -4307,7 +4348,7 @@
   
   #tedxcstu2025 #TEDxTalks #ArtificialIntelligence #Innovation #PersonalGrowth Raymond Fu is a veteran technologist and serial entrepreneur with deep roots in the software industry. In this insightful talk, he tackles a critical question facing today’s workforce: How do we learn software engineering in the age of AI? With firsthand experience leading innovation across startups and tech companies, Raymond shares practical ideas on what students can do to become successful engineers and thrive in an AI-driven world. This talk was given at a TEDx event using the TED conference format but independently organized by a local community. Learn more at https://www.ted.com/tedx
 
-### 101. 3 Years Interview Experience | Java | Spring Boot | Microservices | SQL
+### 102. 3 Years Interview Experience | Java | Spring Boot | Microservices | SQL
 - **URL**: [https://www.youtube.com/watch?v=zbGt6LXEp-I](https://www.youtube.com/watch?v=zbGt6LXEp-I)
 - **Channel**: Insights Instructor
 - **Duration**: 29:46
@@ -4333,7 +4374,7 @@
   
   #WiproInterview #JavaDeveloper #SpringBoot #Microservices #SQL #TechInterview #JavaInterviewQuestions #CareerTips #SoftwareDeveloper #WiproCareers #mockinterview #WiproJobs #Java8Interview #InterviewPreparation
 
-### 102. 3-6 Years Interview Experience | Java | Spring Boot | Microservices
+### 103. 3-6 Years Interview Experience | Java | Spring Boot | Microservices
 - **URL**: [https://www.youtube.com/watch?v=k_hPLaP6Fas](https://www.youtube.com/watch?v=k_hPLaP6Fas)
 - **Channel**: Insights Instructor
 - **Duration**: 29:50
@@ -4365,7 +4406,7 @@
   
   #HappiestMindsInterview #JavaDeveloper #SpringBoot #Microservices #TechInterview #JavaInterviewQuestions #SoftwareDeveloper #HappiestMindsCareers #CareerGrowth #CareerAdvice #mockinterview
 
-### 103. How To Debug Java Code The Right Way - Eclipse Debugger Full Tutorial
+### 104. How To Debug Java Code The Right Way - Eclipse Debugger Full Tutorial
 - **URL**: [https://www.youtube.com/watch?v=aqcJsKdjjvU](https://www.youtube.com/watch?v=aqcJsKdjjvU)
 - **Channel**: Coding with John
 - **Duration**: 22:18
@@ -4422,7 +4463,7 @@
   
   https://codingwithjohn.com
 
-### 104. MUST KNOW junior role JAVA interview questions
+### 105. MUST KNOW junior role JAVA interview questions
 - **URL**: [https://www.youtube.com/watch?v=auCdqGdn2as](https://www.youtube.com/watch?v=auCdqGdn2as)
 - **Channel**: Keep On Coding
 - **Duration**: 42:15
@@ -4462,7 +4503,7 @@
   37:09 ArrayLists
   38:53 Comparator vs Comparable
 
-### 105. Where are the Junior Dev Jobs in 2025?
+### 106. Where are the Junior Dev Jobs in 2025?
 - **URL**: [https://www.youtube.com/watch?v=qUWg9w6tJJQ](https://www.youtube.com/watch?v=qUWg9w6tJJQ)
 - **Channel**: Stefan Mischook
 - **Duration**: 12:41
@@ -4553,7 +4594,7 @@
   
   #mentoring #codecourses #unclestef #juniordeveloper #juniordev
 
-### 106. If I Had to Crack Placements in Just 3 Months (Here's EXACTLY What I'd Do)
+### 107. If I Had to Crack Placements in Just 3 Months (Here's EXACTLY What I'd Do)
 - **URL**: [https://www.youtube.com/watch?v=2pG8rgl_omc](https://www.youtube.com/watch?v=2pG8rgl_omc)
 - **Channel**: Akshay Saini
 - **Duration**: 1:14:37
@@ -4585,7 +4626,7 @@
   
   - Akshay Saini
 
-### 107. Java Full Course for free ☕
+### 108. Java Full Course for free ☕
 - **URL**: [https://www.youtube.com/watch?v=xTtL8E4LzTQ](https://www.youtube.com/watch?v=xTtL8E4LzTQ)
 - **Channel**: Bro Code
 - **Duration**: 12:00:00
@@ -4678,7 +4719,7 @@
   *Copyright Disclaimer*:
   This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-### 108. The ONLY way to become fluent in ENGLISH
+### 109. The ONLY way to become fluent in ENGLISH
 - **URL**: [https://www.youtube.com/watch?v=bo47JoSxl1s](https://www.youtube.com/watch?v=bo47JoSxl1s)
 - **Channel**: Volka English
 - **Duration**: 5:35
@@ -4752,7 +4793,7 @@
   
   American pronunciation, British vs. American pronunciation, English pronunciation tips, Master English pronunciation, How to pronounce words correctly, Correct English pronunciation, Speak English fluently, Speak like a native speaker, Speak like an American, How to speak English, How to pronounce in English, Conversational English, Conversation in English, English grammar, Basic grammar, Intermediate English, Advanced English, English lesson, English class, English for Spanish speakers, English for Asian people, Study English, Learn beginner English, Canadian English, English accent, Learn English with this vlog, English vlog, English speaker, Comprehensible input, Improve English pronunciation, Daily English conversation, Real-life English practice, English listening practice, Natural English speaking, Native speaker English, Fluent English speaking, Everyday English phrases, Learn English naturally, Speak English with confidence, English language learning, English subtitles, English conversation practice, How to sound like a native, Improve your accent, Learn English from real-life conversations, Best way to learn English, Practical English speaking skills, english comprehensible input for esl leaners, english vlog, learn english, how to learn english, how to learn english, easy way to learn english, fast way to learn english, best way to learn english, fastest way to learn english, learn english, how i would learn english,
 
-### 109. ❌ Don't Run Behind 500 LEETCODE Problems ❌ Focus on QPCD
+### 110. ❌ Don't Run Behind 500 LEETCODE Problems ❌ Focus on QPCD
 - **URL**: [https://www.youtube.com/watch?v=awddneKbFIk](https://www.youtube.com/watch?v=awddneKbFIk)
 - **Channel**: Striver
 - **Duration**: 8:31
@@ -4777,7 +4818,7 @@
   
   Find all the links here: https://linktr.ee/takeUforward
 
-### 110. Why You SHOULD Learn Spring Boot
+### 111. Why You SHOULD Learn Spring Boot
 - **URL**: [https://www.youtube.com/watch?v=nKE8pqvhrs8](https://www.youtube.com/watch?v=nKE8pqvhrs8)
 - **Channel**: CodeHead
 - **Duration**: 2:34
@@ -4792,7 +4833,7 @@
   
   #SpringBoot #Java #BackendDevelopment #WebDevelopment #CodingMemes #ProgrammingHumor #ExpressJs #Django #RubyOnRails #SoftwareEngineering #Fireship #DevMeme #Microservices #TechRoast #FullStack #EnterpriseSoftware
 
-### 111. Disable This Browser Setting Now!  (All Browsers)
+### 112. Disable This Browser Setting Now!  (All Browsers)
 - **URL**: [https://www.youtube.com/watch?v=i7qlZeDt9o4](https://www.youtube.com/watch?v=i7qlZeDt9o4)
 - **Channel**: ThioJoe
 - **Duration**: 10:32
@@ -4837,7 +4878,7 @@
   9:21 - Can’t Do it in Firefox Mobile
   9:31 - Safari Browser Requires Lockdown Mode
 
-### 112. stylus extension: custom theme ANY website (Firefox or Chrome)
+### 113. stylus extension: custom theme ANY website (Firefox or Chrome)
 - **URL**: [https://www.youtube.com/watch?v=n38JiboEh6w](https://www.youtube.com/watch?v=n38JiboEh6w)
 - **Channel**: Bread on Penguins
 - **Duration**: 8:38
@@ -4858,7 +4899,7 @@
   Get started writing your own CSS styles: https://github.com/openstyles/stylus/wiki/Writing-styles
   UserCSS guide: https://github.com/openstyles/stylus/wiki/Writing-UserCSS
 
-### 113. How to build logics in programming
+### 114. How to build logics in programming
 - **URL**: [https://www.youtube.com/watch?v=HbNfCM4ilBQ](https://www.youtube.com/watch?v=HbNfCM4ilBQ)
 - **Channel**: Chai aur Code
 - **Duration**: 10:04
@@ -4878,7 +4919,7 @@
   Instagram pe yaha paaye jaate h:
   https://www.instagram.com/hiteshchoudharyofficial/
 
-### 114. Why Systems Thinking Is the Most Powerful Tech Skill
+### 115. Why Systems Thinking Is the Most Powerful Tech Skill
 - **URL**: [https://www.youtube.com/watch?v=hMarCPjGEuw](https://www.youtube.com/watch?v=hMarCPjGEuw)
 - **Channel**: Tiff In Tech
 - **Duration**: 7:22
@@ -4907,7 +4948,7 @@
   
   🎯 Whether you’re an engineer, product manager, founder, or curious builder—this might be the skill that changes how you think.
 
-### 115. The Last Dynamic Programming Video You'll Need to Watch
+### 116. The Last Dynamic Programming Video You'll Need to Watch
 - **URL**: [https://www.youtube.com/watch?v=9k31KcQmS_U](https://www.youtube.com/watch?v=9k31KcQmS_U)
 - **Channel**: AlgoMonster
 - **Duration**: 1:24:08
@@ -4937,7 +4978,7 @@
   LeetCode 1395. Count Number of Teams
   LeetCode 416. Partition Equal Subset Sum (Knapsack and Coin Change Problem)
 
-### 116. I Fixed Windows Sandbox's Biggest Problem
+### 117. I Fixed Windows Sandbox's Biggest Problem
 - **URL**: [https://www.youtube.com/watch?v=510O-FkGv6U](https://www.youtube.com/watch?v=510O-FkGv6U)
 - **Channel**: ThioJoe
 - **Duration**: 5:11
@@ -4956,7 +4997,7 @@
   1:57 - I Didn’t Stop There
   3:26 - How the Microsoft Store Installer Script Works
 
-### 117. Java Spring Boot 3 Years Experience Interview
+### 118. Java Spring Boot 3 Years Experience Interview
 - **URL**: [https://www.youtube.com/watch?v=JXOwT86h0gg](https://www.youtube.com/watch?v=JXOwT86h0gg)
 - **Channel**: GenZ Career
 - **Duration**: 23:32
@@ -4977,7 +5018,7 @@
   
   Please fill out the Mock Interview participation form below and subscribe to our channel (This mock interview is for subscribers only): https://forms.gle/TU6i3ZgfndDH4Qn86
 
-### 118. Make your GPU faster for $7 (REAL)
+### 119. Make your GPU faster for $7 (REAL)
 - **URL**: [https://www.youtube.com/watch?v=lCKbt8hBYAo](https://www.youtube.com/watch?v=lCKbt8hBYAo)
 - **Channel**: Linus Tech Tips
 - **Duration**: 24:07
@@ -5029,7 +5070,7 @@
   23:09 Sponsor
   23:57 Credits
 
-### 119. Coding is Useless… Until You Do This ...  | Coding & AI in 2025
+### 120. Coding is Useless… Until You Do This ...  | Coding & AI in 2025
 - **URL**: [https://www.youtube.com/watch?v=QBOS1BMdf24](https://www.youtube.com/watch?v=QBOS1BMdf24)
 - **Channel**: Savinder Puri
 - **Duration**: 18:09
@@ -5085,7 +5126,7 @@
   Savinder is a recognised figure in the DevOps space and has been speaking at leading industry events worldwide. He is a Global DevOps Ambassador with DevOps Institute and Continuous Delivery Foundation (CDF) Ambassador. He's also authored the widely popular "How do I build a career in DevOps? - A practical handbook to help you start or scale up your career in DevOps", and  "Spirituality & Success - A Guide to Using Spirituality for Success at Home and Work" which are available on Amazon worldwide.
   --------------------------------------------------------------------------------------------------------------------------------
 
-### 120. Top Java Interview Questions TO GET YOU HIRED in 2026 |Java Interview Preparation Guide |Intellipaat
+### 121. Top Java Interview Questions TO GET YOU HIRED in 2026 |Java Interview Preparation Guide |Intellipaat
 - **URL**: [https://www.youtube.com/watch?v=4Ib9amXl4gI](https://www.youtube.com/watch?v=4Ib9amXl4gI)
 - **Channel**: Intellipaat
 - **Duration**: 1:00:50
@@ -5179,7 +5220,7 @@
   
   📚For more information, please write back to us at sales@intellipaat.com or call us at IND: +91-7022374614 / US : 1-800-216-8930
 
-### 121. This new AI is powerful and uncensored… Let’s run it
+### 122. This new AI is powerful and uncensored… Let’s run it
 - **URL**: [https://www.youtube.com/watch?v=GyllRd2E6fg](https://www.youtube.com/watch?v=GyllRd2E6fg)
 - **Channel**: Fireship
 - **Duration**: 4:37
@@ -5223,7 +5264,7 @@
   - What is a mixture of experts AI model?
   - How do you fine tune your own AI models?
 
-### 122. Sorting: Bubble, Insertion, Selection, Merge, Quick, Counting Sort - DSA Course in Python Lecture 10
+### 123. Sorting: Bubble, Insertion, Selection, Merge, Quick, Counting Sort - DSA Course in Python Lecture 10
 - **URL**: [https://www.youtube.com/watch?v=gcRUIO-8r3U](https://www.youtube.com/watch?v=gcRUIO-8r3U)
 - **Channel**: Greg Hogg
 - **Duration**: 41:41
@@ -5316,7 +5357,7 @@
   - ML w/ Andrew Ng: https://www.coursera.org/specializations/machine-learning-introduction
   - Deep Learning w/ Andrew Ng: https://imp.i384100.net/a1kjJj
 
-### 123. 3-7 Years Interview Experience | Java | Spring Boot | Microservices | Maven | SQL
+### 124. 3-7 Years Interview Experience | Java | Spring Boot | Microservices | Maven | SQL
 - **URL**: [https://www.youtube.com/watch?v=I8vcwnn6Qc8](https://www.youtube.com/watch?v=I8vcwnn6Qc8)
 - **Channel**: Insights Instructor
 - **Duration**: 32:02
@@ -5347,7 +5388,7 @@
   
   #CGIInterview #JavaDeveloper #SpringBoot #Microservices #Maven #SQL #TechInterview #JavaInterviewQuestions #SoftwareDeveloper #CGICareers #CareerGrowth #CareerAdvice #mockinterview
 
-### 124. Git Merge vs Rebase Explained Visually | Which One Should You Use?
+### 125. Git Merge vs Rebase Explained Visually | Which One Should You Use?
 - **URL**: [https://www.youtube.com/watch?v=cjSjlHUmaBU](https://www.youtube.com/watch?v=cjSjlHUmaBU)
 - **Channel**: ByteMonk
 - **Duration**: 6:22
@@ -5398,7 +5439,7 @@
   
   #Git #VersionControl #GitTutorial #GitRebase #GitMerge #ByteMonk
 
-### 125. Git Mastery Crash Course | From First Commit to Big Tech Workflows
+### 126. Git Mastery Crash Course | From First Commit to Big Tech Workflows
 - **URL**: [https://www.youtube.com/watch?v=HMoZ5cYzU4I](https://www.youtube.com/watch?v=HMoZ5cYzU4I)
 - **Channel**: ByteMonk
 - **Duration**: 14:43
@@ -5448,7 +5489,7 @@
   
   #Git #VersionControl #GitTutorial #GitFlow #TrunkBasedDevelopment #DevTools #BigTechEngineering #GitMastery
 
-### 126. Browser extensions sell what you view to AI companies, GNOME funding - Linux Weekly News
+### 127. Browser extensions sell what you view to AI companies, GNOME funding - Linux Weekly News
 - **URL**: [https://www.youtube.com/watch?v=_4HpSKyQ0JE](https://www.youtube.com/watch?v=_4HpSKyQ0JE)
 - **Channel**: The Linux Experiment
 - **Duration**: 25:37
@@ -5527,7 +5568,7 @@
   German court finds Meta's tracking illegal 
   https://therecord.media/german-court-meta-tracking-tech
 
-### 127. You Have Been Using Git The WRONG Way
+### 128. You Have Been Using Git The WRONG Way
 - **URL**: [https://www.youtube.com/watch?v=nzrU9xPPF80](https://www.youtube.com/watch?v=nzrU9xPPF80)
 - **Channel**: CodeHead
 - **Duration**: 5:13
@@ -5543,7 +5584,7 @@
   
   Buy this tired Code Head a ☕: https://buymeacoffee.com/codehead
 
-### 128. The BEST Job Interview Moments | Got Instant Offers | High Paying Job Offers
+### 129. The BEST Job Interview Moments | Got Instant Offers | High Paying Job Offers
 - **URL**: [https://www.youtube.com/watch?v=gfoqygqCW38](https://www.youtube.com/watch?v=gfoqygqCW38)
 - **Channel**: Savinder Puri
 - **Duration**: 17:23
@@ -5633,7 +5674,7 @@
   
   #interviewtips, #jobinterview, #careeradvice, #interviewmistakes, #jobsearch, #interviewskills, #getthejob, #careercoach, #jobpreparation, #interviewsuccess
 
-### 129. My WORST Job Recruiting Experience EVER | Interview Fails
+### 130. My WORST Job Recruiting Experience EVER | Interview Fails
 - **URL**: [https://www.youtube.com/watch?v=r3YPYdSP-yU](https://www.youtube.com/watch?v=r3YPYdSP-yU)
 - **Channel**: Savinder Puri
 - **Duration**: 16:48
@@ -5712,7 +5753,7 @@
   
   #interviewtips, #jobinterview, #interviewmistakes, #careeradvice, #jobsearch
 
-### 130. Get Hired FAST in 2025 with This SECRET Job Search Hack
+### 131. Get Hired FAST in 2025 with This SECRET Job Search Hack
 - **URL**: [https://www.youtube.com/watch?v=mbxgyFLUeV8](https://www.youtube.com/watch?v=mbxgyFLUeV8)
 - **Channel**: Savinder Puri
 - **Duration**: 22:06
@@ -5785,7 +5826,7 @@
   
    #career #jobsearch #jobs #jobinterview #job
 
-### 131. 14 DevTools Tricks That`ll Make You a Better Developer
+### 132. 14 DevTools Tricks That`ll Make You a Better Developer
 - **URL**: [https://www.youtube.com/watch?v=pw14NzfYPa8](https://www.youtube.com/watch?v=pw14NzfYPa8)
 - **Channel**: camelCase
 - **Duration**: 10:32
@@ -5819,7 +5860,7 @@
   📜 Legal:
   Music License Codes: VOINKK4VUN4TLJ6C, VX5YXVKM8I8FSXA8, OHRMTVXNJQP3895M, OTQRUBEYV0BESSYT
 
-### 132. The Most Useful Hidden Chrome Settings & Flags
+### 133. The Most Useful Hidden Chrome Settings & Flags
 - **URL**: [https://www.youtube.com/watch?v=wMe3SPBJ6iQ](https://www.youtube.com/watch?v=wMe3SPBJ6iQ)
 - **Channel**: ThioJoe
 - **Duration**: 7:23
@@ -5841,7 +5882,7 @@
   5:01 - Design Mode
   5:49 - Simulated Phone Mode
 
-### 133. Chrome Security Settings You'll Want to Change
+### 134. Chrome Security Settings You'll Want to Change
 - **URL**: [https://www.youtube.com/watch?v=9nl6hO0ECgM](https://www.youtube.com/watch?v=9nl6hO0ECgM)
 - **Channel**: ThioJoe
 - **Duration**: 19:42
@@ -5879,7 +5920,7 @@
   18:26 - Deprecate the Unload Event
   18:54 - If You Can’t Find One
 
-### 134. 16 Useful Apps That Make Windows 11 Feel Truly Native
+### 135. 16 Useful Apps That Make Windows 11 Feel Truly Native
 - **URL**: [https://www.youtube.com/watch?v=r3WuwTYNsUk](https://www.youtube.com/watch?v=r3WuwTYNsUk)
 - **Channel**: Tech With Mobin
 - **Duration**: 20:55
@@ -5951,7 +5992,7 @@
   
   Explore the exciting world of software, AI-driven websites, and cutting-edge technology on my channel! I focus on introducing the latest software tools, showcasing innovative AI platforms, and breaking down complex tech trends to make them accessible to everyone. You'll find a wealth of free resources to help you navigate the digital landscape, discover powerful AI websites, and stay updated on the latest tech developments. My mission is to provide top-quality content that empowers you to harness the potential of software and AI, bringing the best of tech right to your fingertips.
 
-### 135. No Bullsh*t Guide to Making Modern Websites
+### 136. No Bullsh*t Guide to Making Modern Websites
 - **URL**: [https://www.youtube.com/watch?v=WAV66F-Zbio](https://www.youtube.com/watch?v=WAV66F-Zbio)
 - **Channel**: Josh S
 - **Duration**: 1:50
@@ -5983,7 +6024,7 @@
   web development, modern web design, website tutorial, how to build a website, web design 2025, no bs coding, learn web dev, frontend tutorial, html css js, modern website tutorial, web dev guide, website design, responsive design, coding for beginners, build a website fast
   #coding #websitedevelopment #webdesign
 
-### 136. 4 projects that helped me escape web dev
+### 137. 4 projects that helped me escape web dev
 - **URL**: [https://www.youtube.com/watch?v=6CJiM3E2mAA](https://www.youtube.com/watch?v=6CJiM3E2mAA)
 - **Channel**: Alexa Fazio
 - **Duration**: 9:34
@@ -6014,7 +6055,7 @@
   - Discord Server: https://discord.com/invite/qpAxYaF
   - Instagram: https://www.instagram.com/robotic.nation/
 
-### 137. Complete Java, Spring, and Microservices course
+### 138. Complete Java, Spring, and Microservices course
 - **URL**: [https://www.youtube.com/watch?v=4XTsAAHW_Tc](https://www.youtube.com/watch?v=4XTsAAHW_Tc)
 - **Channel**: Telusko
 - **Duration**: 48:36:03
@@ -6089,7 +6130,7 @@
   Java Spring Boot Mongodb: https://www.youtube.com/watch?v=kYiLzIiHVY8&t=3556s&ab_channel=Telusko
   Microserivce: https://www.youtube.com/playlist?list=PLsyeobzWxl7rRyGcqgZ3MP5pWGPwUvprI
 
-### 138. VS Code Agent Mode Just Changed Everything
+### 139. VS Code Agent Mode Just Changed Everything
 - **URL**: [https://www.youtube.com/watch?v=dutyOc_cAEU](https://www.youtube.com/watch?v=dutyOc_cAEU)
 - **Channel**: Visual Studio Code
 - **Duration**: 16:18
@@ -6121,7 +6162,7 @@
   
   #vscode #ai #agents
 
-### 139. Git Pull vs Fetch: When To Use Each
+### 140. Git Pull vs Fetch: When To Use Each
 - **URL**: [https://www.youtube.com/watch?v=T13gDBXarj0](https://www.youtube.com/watch?v=T13gDBXarj0)
 - **Channel**: The Modern Coder
 - **Duration**: 7:13
@@ -6154,7 +6195,7 @@
   
   #git #learngit.io #learngit #mergeconflicts #gitfetch #gitpull #gitmerge #fetchvsmerge #github #gitmerge #gitrebase #stackoverflow #development #softwareengineering #programming #coding #versioncontrol #developer #technology #tutorial #stepbystepguide #gitrepository #vcs #programmingtips #codersofinstagram #codingcommunity #learnprogramming #softwaredevelopment #codingtutorial #gitexplained
 
-### 140. The unfair way I got good at Leetcode
+### 141. The unfair way I got good at Leetcode
 - **URL**: [https://www.youtube.com/watch?v=GPIuPRqDGG8](https://www.youtube.com/watch?v=GPIuPRqDGG8)
 - **Channel**: Dave Burji
 - **Duration**: 6:47
@@ -6179,7 +6220,7 @@
   1:47 Practice Interview Style
   3:07 Quality & Quantity
 
-### 141. Git Tutorial for Beginners: Learn Git in 1 Hour
+### 142. Git Tutorial for Beginners: Learn Git in 1 Hour
 - **URL**: [https://www.youtube.com/watch?v=8JJ101D3knE](https://www.youtube.com/watch?v=8JJ101D3knE)
 - **Channel**: Programming with Mosh
 - **Duration**: 1:09:13
@@ -6238,7 +6279,7 @@
   
   #git #devops #coding #softwaredevelopment
 
-### 142. What is Spring-Boot Framework? (explained from scratch)
+### 143. What is Spring-Boot Framework? (explained from scratch)
 - **URL**: [https://www.youtube.com/watch?v=LSEYdU8Dp9Y](https://www.youtube.com/watch?v=LSEYdU8Dp9Y)
 - **Channel**: Visual Computer Science
 - **Duration**: 4:46
@@ -6260,7 +6301,7 @@
   
   Thank you!
 
-### 143. Complete Java Full Stack: AWS, Spring Boot, Microservices
+### 144. Complete Java Full Stack: AWS, Spring Boot, Microservices
 - **URL**: [https://www.youtube.com/watch?v=fmX84zu-5gs](https://www.youtube.com/watch?v=fmX84zu-5gs)
 - **Channel**: Lovepreet Singh
 - **Duration**: 11:17:17
@@ -6361,7 +6402,7 @@
   
   #java #microservices #projects
 
-### 144. SQL - Complete Course in 3 Hours | SQL One Shot using MySQL
+### 145. SQL - Complete Course in 3 Hours | SQL One Shot using MySQL
 - **URL**: [https://www.youtube.com/watch?v=hlGoQC332VM](https://www.youtube.com/watch?v=hlGoQC332VM)
 - **Channel**: Apna College
 - **Duration**: 3:16:14
@@ -6419,7 +6460,7 @@
   02:53:54  SQL Sub Queries
   03:11:26  MySQL Views
 
-### 145. SQL Full Course for free 🐬
+### 146. SQL Full Course for free 🐬
 - **URL**: [https://www.youtube.com/watch?v=5OdVJbNCSso](https://www.youtube.com/watch?v=5OdVJbNCSso)
 - **Channel**: Bro Code
 - **Duration**: 3:00:00
@@ -6471,7 +6512,7 @@
   
   This video is the intellectual property of Bro Code. All rights reserved. No part of this video may be reproduced, distributed, or transmitted in any form or by any means, including but not limited to recording, uploading, or other electronic or mechanical methods, without my written permission, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
 
-### 146. SQL Tutorial - Full Database Course for Beginners
+### 147. SQL Tutorial - Full Database Course for Beginners
 - **URL**: [https://www.youtube.com/watch?v=HXV3zeQKqGY](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 4:20:39
@@ -6528,7 +6569,7 @@
   
   Read hundreds of articles on programming: https://medium.freecodecamp.org
 
-### 147. Are your PAN Cards useless now? #news #shorts
+### 148. Are your PAN Cards useless now? #news #shorts
 - **URL**: [https://www.youtube.com/watch?v=6gbGiWoPzpU](https://www.youtube.com/watch?v=6gbGiWoPzpU)
 - **Channel**: Aevy TV
 - **Duration**: 0:53
@@ -6541,7 +6582,7 @@
   https://www.instagram.com/aevyvideoschool/
   https://www.instagram.com/achinamayya/
 
-### 148. Configure your Git
+### 149. Configure your Git
 - **URL**: [https://www.youtube.com/watch?v=G3NJzFX6XhY](https://www.youtube.com/watch?v=G3NJzFX6XhY)
 - **Channel**: codingjerk
 - **Duration**: 14:03
@@ -6577,7 +6618,7 @@
   13:29 - GPG Signing
   13:50 - Outro
 
-### 149. How 10X Engineers Use Git
+### 150. How 10X Engineers Use Git
 - **URL**: [https://www.youtube.com/watch?v=NcQB3ZxOwQw](https://www.youtube.com/watch?v=NcQB3ZxOwQw)
 - **Channel**: The Coding Gopher
 - **Duration**: 8:44
@@ -6590,7 +6631,7 @@
   ☕ Buy Me a Coffee: http://ko-fi.com/thecodinggopher
   👨‍💻 Get 40% OFF CodeCrafters (High-quality programming courses): https://app.codecrafters.io/join?via=the-coding-gopher
 
-### 150. 8 Design Patterns EVERY Developer Should Know
+### 151. 8 Design Patterns EVERY Developer Should Know
 - **URL**: [https://www.youtube.com/watch?v=tAuRQs_d9F8](https://www.youtube.com/watch?v=tAuRQs_d9F8)
 - **Channel**: NeetCode
 - **Duration**: 9:47
@@ -6627,7 +6668,7 @@
   
   #design #patterns #python
 
-### 151. Simple Made Easy - Prime Reacts
+### 152. Simple Made Easy - Prime Reacts
 - **URL**: [https://www.youtube.com/watch?v=8eXiWkPSb50](https://www.youtube.com/watch?v=8eXiWkPSb50)
 - **Channel**: The PrimeTime
 - **Duration**: 1:57:01
@@ -6652,7 +6693,7 @@
   
   Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 
-### 152. You're Using Google WRONG - Do This Instead
+### 153. You're Using Google WRONG - Do This Instead
 - **URL**: [https://www.youtube.com/watch?v=M3bduu2GGVU](https://www.youtube.com/watch?v=M3bduu2GGVU)
 - **Channel**: ThioJoe
 - **Duration**: 13:17
@@ -6694,7 +6735,7 @@
   ⇨ http://Facebook.com/ThioJoeTV
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 153. Claude's Model Context Protocol is here... Let's test it
+### 154. Claude's Model Context Protocol is here... Let's test it
 - **URL**: [https://www.youtube.com/watch?v=HyzlYwjoXOQ](https://www.youtube.com/watch?v=HyzlYwjoXOQ)
 - **Channel**: Fireship
 - **Duration**: 8:08
@@ -6735,7 +6776,7 @@
   - Basic MCP tutorial in TypeScript
   - How to build your own AI agent from scratch
 
-### 154. you will never ask about pointers again after watching this video
+### 155. you will never ask about pointers again after watching this video
 - **URL**: [https://www.youtube.com/watch?v=2ybLD6_2gKM](https://www.youtube.com/watch?v=2ybLD6_2gKM)
 - **Channel**: Low Level
 - **Duration**: 8:03
@@ -6763,7 +6804,7 @@
   Why Do Header Files Exist? https://youtu.be/tOQZlD-0Scc
   How Does Return Work?  https://youtu.be/e46wHUjNDjE
 
-### 155. “Mutual Funds” ka Asal Matlab #Ep1
+### 156. “Mutual Funds” ka Asal Matlab #Ep1
 - **URL**: [https://www.youtube.com/watch?v=caxkThfU09c](https://www.youtube.com/watch?v=caxkThfU09c)
 - **Channel**: Labour Law Advisor
 - **Duration**: 1:00
@@ -6796,7 +6837,7 @@
   
   There are several kinds of MFs, two broad categories are Equity and Debt. In equity we have large cap, mid cap, small cap, large and mic cap, multicap, flexi cap, focused, index, etc. And in debt we have liquid funds, ultra short term funds, short term, gilt funds, banking and psu funds etc. We even have Mutual funds for gold and real estate. Coming to IDCW which is income distribution cum capital withdrawal plan, this kind of periodically gives you an income from your own money and reduces your ability to compound your wealth. IDCW plans are best suited for people who are looking to generate regular income from their investment however, this kind of income is treated as dividend income and is taxed just like dividend (as per tax slab), that means it'll hurt those who are in highest tax slab. A better solution is SWP, systematic withdrawal plan: it means you can set up a periodic withdrawal from your growth MF and that withdrawal will be treated capital gain and will be taxed lower.
 
-### 156. Cheaters are breaking the technical interview... how?
+### 157. Cheaters are breaking the technical interview... how?
 - **URL**: [https://www.youtube.com/watch?v=Lf883rNZjSE](https://www.youtube.com/watch?v=Lf883rNZjSE)
 - **Channel**: Fireship
 - **Duration**: 6:18
@@ -6841,7 +6882,7 @@
   - How to pass software technical interview
   - What happens if you cheat on technical interview?
 
-### 157. How to Use Deepseek R1 AI for Free (Local & Online) [Step by Step]
+### 158. How to Use Deepseek R1 AI for Free (Local & Online) [Step by Step]
 - **URL**: [https://www.youtube.com/watch?v=5vVWWnhE530](https://www.youtube.com/watch?v=5vVWWnhE530)
 - **Channel**: WebStylePress
 - **Duration**: 5:21
@@ -6873,7 +6914,7 @@
   ⚡Website: https://www.webstylepress.com
   #deepseek #deepseekai #deepseekr1 #WebStylePress #llm #ai
 
-### 158. Dynamic Programming isn't too hard. You just don't know what it is.
+### 159. Dynamic Programming isn't too hard. You just don't know what it is.
 - **URL**: [https://www.youtube.com/watch?v=gK8KmTDtX8E](https://www.youtube.com/watch?v=gK8KmTDtX8E)
 - **Channel**: DecodingIntuition
 - **Duration**: 22:31
@@ -6884,7 +6925,7 @@
 - **Description**:
   #dynamicprogramming #leetcode
 
-### 159. How To Type Faster (Tips for every stage 0  - 50 - 100 - 150 WPM)
+### 160. How To Type Faster (Tips for every stage 0  - 50 - 100 - 150 WPM)
 - **URL**: [https://www.youtube.com/watch?v=QAb3ATOpBpE](https://www.youtube.com/watch?v=QAb3ATOpBpE)
 - **Channel**: Mr Chops
 - **Duration**: 4:16
@@ -6938,7 +6979,7 @@
   📷 Instagram 📷:
   https://www.instagram.com/edi.liang/
 
-### 160. How To Study Programming The Lazy Way
+### 161. How To Study Programming The Lazy Way
 - **URL**: [https://www.youtube.com/watch?v=pXHnLbyDKNQ](https://www.youtube.com/watch?v=pXHnLbyDKNQ)
 - **Channel**: The Coding Sloth
 - **Duration**: 11:15
@@ -6971,7 +7012,7 @@
   
   (some of these links are affiliates, so I'll earn some money which supports the channel!)
 
-### 161. How to Use NotebookLM (Google's AI "Tool for Understanding")
+### 162. How to Use NotebookLM (Google's AI "Tool for Understanding")
 - **URL**: [https://www.youtube.com/watch?v=iWPjBwXy_Io](https://www.youtube.com/watch?v=iWPjBwXy_Io)
 - **Channel**: Tiago Forte
 - **Duration**: 25:50
@@ -7030,7 +7071,7 @@
   🟦 Facebook: https://www.facebook.com/fortelabs
   🤳Instagram: https://www.instagram.com/fortelabsco/
 
-### 162. New AI Tool Will Freak You Out - NotebookLM from Google
+### 163. New AI Tool Will Freak You Out - NotebookLM from Google
 - **URL**: [https://www.youtube.com/watch?v=DVacXxHvsQo](https://www.youtube.com/watch?v=DVacXxHvsQo)
 - **Channel**: Roger Dooley
 - **Duration**: 4:54
@@ -7072,7 +7113,7 @@
   [03:41] Practical Uses for NotebookLM
   [04:28] Closing
 
-### 163. Wake up babe, a dangerous new open-source AI model is here
+### 164. Wake up babe, a dangerous new open-source AI model is here
 - **URL**: [https://www.youtube.com/watch?v=QYVucud3ptc](https://www.youtube.com/watch?v=QYVucud3ptc)
 - **Channel**: Fireship
 - **Duration**: 4:45
@@ -7117,7 +7158,7 @@
   - Flux.1 Python tutorial
   - How to turn AI images in to video
 
-### 164. The most compelling browser I've used since Arc
+### 165. The most compelling browser I've used since Arc
 - **URL**: [https://www.youtube.com/watch?v=OqyGgwKlZ9M](https://www.youtube.com/watch?v=OqyGgwKlZ9M)
 - **Channel**: A Better Computer
 - **Duration**: 11:00
@@ -7151,7 +7192,7 @@
   
   I use ls.graphics to make all my device mock ups. Check them out here https://ls.graphics/?via=matt
 
-### 165. CSS Only Glass Card For Website | Html CSS Beginners
+### 166. CSS Only Glass Card For Website | Html CSS Beginners
 - **URL**: [https://www.youtube.com/watch?v=SfIWOCsNIwk](https://www.youtube.com/watch?v=SfIWOCsNIwk)
 - **Channel**: Online Tutorials
 - **Duration**: 8:01
@@ -7187,7 +7228,7 @@
   ------------------
   Disclaimer video is for educational purpose only. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use
 
-### 166. Making Background Blob Animation in Just 1.5KB
+### 167. Making Background Blob Animation in Just 1.5KB
 - **URL**: [https://www.youtube.com/watch?v=0yp9-_NKPC0](https://www.youtube.com/watch?v=0yp9-_NKPC0)
 - **Channel**: Ksenia Kondrashova
 - **Duration**: 1:33
@@ -7206,7 +7247,7 @@
   
   #svg #css #minimal #frontend
 
-### 167. Animated Gradient Background with Pure CSS
+### 168. Animated Gradient Background with Pure CSS
 - **URL**: [https://www.youtube.com/watch?v=DuQwzF6NPp8](https://www.youtube.com/watch?v=DuQwzF6NPp8)
 - **Channel**: Hemant Dutta
 - **Duration**: 4:45
@@ -7243,7 +7284,7 @@
   
   Don't forget to like, comment, and subscribe for more quick and easy web development tutorials. Hit the notification bell so you never miss an update!
 
-### 168. How to level up your GitHub profile README (Basic to Pro!)
+### 169. How to level up your GitHub profile README (Basic to Pro!)
 - **URL**: [https://www.youtube.com/watch?v=DWFs6aqknqw](https://www.youtube.com/watch?v=DWFs6aqknqw)
 - **Channel**: Magdeline Huang
 - **Duration**: 14:14
@@ -7320,7 +7361,7 @@
   - This video is sponsored by Brilliant. Thank you for supporting my channel!
   - Some of the links above are affiliate links, meaning if you choose to make a purchase after clicking a link, I may receive a commission at no additional cost to you. Thank you for your support!
 
-### 169. Master Responsive CSS Media Queries in easy way
+### 170. Master Responsive CSS Media Queries in easy way
 - **URL**: [https://www.youtube.com/watch?v=n9yI6fjkrfE](https://www.youtube.com/watch?v=n9yI6fjkrfE)
 - **Channel**: Nova Designs
 - **Duration**: 4:18
@@ -7362,7 +7403,7 @@
   
   #css #css3 #mediaquery #mediaqueries #responsive #responsivewebsite #responsivelandingpages #responsiveness  #course #tutorial #webdev #webdevelopment
 
-### 170. Animated Day Night Toggle Switch | Pure CSS Only!
+### 171. Animated Day Night Toggle Switch | Pure CSS Only!
 - **URL**: [https://www.youtube.com/watch?v=Zruq1hqrkvg](https://www.youtube.com/watch?v=Zruq1hqrkvg)
 - **Channel**: Snippets Code
 - **Duration**: 10:42
@@ -7401,7 +7442,7 @@
   #purecss 
   #snippetscode
 
-### 171. Change Cursor on Hover using CSS & Vanilla Javascript | Mouse Cursor Effects
+### 172. Change Cursor on Hover using CSS & Vanilla Javascript | Mouse Cursor Effects
 - **URL**: [https://www.youtube.com/watch?v=nMGVwP3ww2M](https://www.youtube.com/watch?v=nMGVwP3ww2M)
 - **Channel**: Online Tutorials
 - **Duration**: 3:34
@@ -7442,7 +7483,7 @@
   ------------------
   Disclaimer video is for educational purpose only. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use
 
-### 172. Create a Stacked Nav Menu using HTML CSS JS
+### 173. Create a Stacked Nav Menu using HTML CSS JS
 - **URL**: [https://www.youtube.com/watch?v=Edommembuvw](https://www.youtube.com/watch?v=Edommembuvw)
 - **Channel**: Snippets Code
 - **Duration**: 15:12
@@ -7455,7 +7496,7 @@
   
   Link to code: https://github.com/SnippetsDevelop/snippetsdevelop.github.io/blob/master/codes/Stacked-Menu.html
 
-### 173. Learn CSS Animations In 20 Minutes - For Beginners
+### 174. Learn CSS Animations In 20 Minutes - For Beginners
 - **URL**: [https://www.youtube.com/watch?v=SgmNxE9lWcY](https://www.youtube.com/watch?v=SgmNxE9lWcY)
 - **Channel**: Slaying The Dragon
 - **Duration**: 21:22
@@ -7477,7 +7518,7 @@
   
   Animations however, provide keyframes for more control over the animation and allows us to create complex animations on a frame by frame basis. Use animations when you want to create complex animations that just work without having to wait for properties that change interactively.
 
-### 174. Learn CSS Flexbox in 20 Minutes (Course)
+### 175. Learn CSS Flexbox in 20 Minutes (Course)
 - **URL**: [https://www.youtube.com/watch?v=wsTv9y931o8](https://www.youtube.com/watch?v=wsTv9y931o8)
 - **Channel**: Coding2GO
 - **Duration**: 20:37
@@ -7523,7 +7564,7 @@
   Music provided by https://Slip.stream 
   Free Download/Stream: https://get.slip.stream/xPJ3rV
 
-### 175. Learn CSS Positioning Quickly With A Real World Example
+### 176. Learn CSS Positioning Quickly With A Real World Example
 - **URL**: [https://www.youtube.com/watch?v=MxEtxo_AaZ4](https://www.youtube.com/watch?v=MxEtxo_AaZ4)
 - **Channel**: Slaying The Dragon
 - **Duration**: 8:32
@@ -7538,7 +7579,7 @@
   4:31 Static & Relative
   5:57 Fixed & Sticky
 
-### 176. Learn CSS Position In 9 Minutes
+### 177. Learn CSS Position In 9 Minutes
 - **URL**: [https://www.youtube.com/watch?v=jx5jmI0UlXU](https://www.youtube.com/watch?v=jx5jmI0UlXU)
 - **Channel**: Web Dev Simplified
 - **Duration**: 9:26
@@ -7582,7 +7623,7 @@
   
   #CSSPosition #CSS #WebDevelopment
 
-### 177. CSS Tutorial: Position absolute, relative, fixed and sticky in CSS | Web Development Tutorials #25
+### 178. CSS Tutorial: Position absolute, relative, fixed and sticky in CSS | Web Development Tutorials #25
 - **URL**: [https://www.youtube.com/watch?v=MwGHiVl-gqk](https://www.youtube.com/watch?v=MwGHiVl-gqk)
 - **Channel**: CodeWithHarry
 - **Duration**: 14:42
@@ -7634,7 +7675,7 @@
   ►Personal Facebook A/c - https://www.facebook.com/geekyharis
   Twitter - https://twitter.com/Haris_Is_Here
 
-### 178. How to make your VSCode 𝘴𝘮𝘰𝘰𝘵𝘩
+### 179. How to make your VSCode 𝘴𝘮𝘰𝘰𝘵𝘩
 - **URL**: [https://www.youtube.com/watch?v=PWCkrHHyvjE](https://www.youtube.com/watch?v=PWCkrHHyvjE)
 - **Channel**: Niconiconii
 - **Duration**: 0:49
@@ -7650,7 +7691,7 @@
   
   #lifehacks #vscode #tutorials #coding #satisfying #short #shorts #tipsandtricks
 
-### 179. The Best VSCode Extensions 2025
+### 180. The Best VSCode Extensions 2025
 - **URL**: [https://www.youtube.com/watch?v=YjhkcvS1xKU](https://www.youtube.com/watch?v=YjhkcvS1xKU)
 - **Channel**: Coding With Adam
 - **Duration**: 9:29
@@ -7752,7 +7793,7 @@
   VSCode Pets adds cute pixelated pets to VSCode. Each pet has a different animation that can amuse you while you code. You can even toss a ball for them to chase. 
   https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
 
-### 180. VS Code tips — Fast scroll
+### 181. VS Code tips — Fast scroll
 - **URL**: [https://www.youtube.com/watch?v=iZP1cfAI_rY](https://www.youtube.com/watch?v=iZP1cfAI_rY)
 - **Channel**: Code 2020
 - **Duration**: 0:49
@@ -7767,7 +7808,7 @@
   
   Use the `editor.fastScrollSensitivity` setting to change how much faster fast scrolling is!
 
-### 181. VS Code | My Setup #9 - Animated interface (VSCode animations extension)
+### 182. VS Code | My Setup #9 - Animated interface (VSCode animations extension)
 - **URL**: [https://www.youtube.com/watch?v=Cd6NcXY4Exg](https://www.youtube.com/watch?v=Cd6NcXY4Exg)
 - **Channel**: Igor Babko
 - **Duration**: 7:32
@@ -7797,7 +7838,7 @@
   
   #vscode #visualstudiocode #codeeditor
 
-### 182. How To Setup Prettier
+### 183. How To Setup Prettier
 - **URL**: [https://www.youtube.com/watch?v=DqfQ4DPnRqI](https://www.youtube.com/watch?v=DqfQ4DPnRqI)
 - **Channel**: Web Dev Simplified
 - **Duration**: 12:11
@@ -7833,7 +7874,7 @@
   
   #Prettier #WDS #JavaScript
 
-### 183. How to add words or names to the custom dictionary in Microsoft Word
+### 184. How to add words or names to the custom dictionary in Microsoft Word
 - **URL**: [https://www.youtube.com/watch?v=4B9OrUPJroU](https://www.youtube.com/watch?v=4B9OrUPJroU)
 - **Channel**: Andy Todd
 - **Duration**: 3:30
@@ -7881,7 +7922,7 @@
   👨‍💻 MICROSOFT POWERPOINT TUTORIALS: http://y2u.be/Aef6XzLSjgc
   📄 MICROSOFT WORD TUTORIALS: http://y2u.be/sAbilsNFpc0
 
-### 184. addEventListener() - Beau teaches JavaScript
+### 185. addEventListener() - Beau teaches JavaScript
 - **URL**: [https://www.youtube.com/watch?v=F3odgpghXzY](https://www.youtube.com/watch?v=F3odgpghXzY)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 5:32
@@ -7913,7 +7954,7 @@
   
   ❤️ Support for this channel comes from our friends at Scrimba – the coding platform that's reinvented interactive learning: https://scrimba.com/freecodecamp
 
-### 185. Learn JavaScript Event Listeners In 18 Minutes
+### 186. Learn JavaScript Event Listeners In 18 Minutes
 - **URL**: [https://www.youtube.com/watch?v=XF1_MlZ5l6M](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 - **Channel**: Web Dev Simplified
 - **Duration**: 18:03
@@ -7969,7 +8010,7 @@
   
   #EventListener #WDS #JavaScript
 
-### 186. Master VS Code's keyboard shortcuts in 13 minutes
+### 187. Master VS Code's keyboard shortcuts in 13 minutes
 - **URL**: [https://www.youtube.com/watch?v=nWIRJBCjls8](https://www.youtube.com/watch?v=nWIRJBCjls8)
 - **Channel**: Visual Studio Code
 - **Duration**: 12:50
@@ -7996,7 +8037,7 @@
   
   #ai  #vscode #keyboard
 
-### 187. Stunning CSS Glassmorphism Card with Animation
+### 188. Stunning CSS Glassmorphism Card with Animation
 - **URL**: [https://www.youtube.com/watch?v=rZ6q8N9xkPo](https://www.youtube.com/watch?v=rZ6q8N9xkPo)
 - **Channel**: Clueless Expert
 - **Duration**: 6:26
@@ -8013,7 +8054,7 @@
   
   #css #html #card
 
-### 188. Learn CSS Border Animations in 6 Minutes
+### 189. Learn CSS Border Animations in 6 Minutes
 - **URL**: [https://www.youtube.com/watch?v=ezP4kbOvs_E](https://www.youtube.com/watch?v=ezP4kbOvs_E)
 - **Channel**: Coding2GO
 - **Duration**: 5:57
@@ -8071,7 +8112,7 @@
   Like & Subscribe for more 😉
   Check out our website: https://www.coding2go.com
 
-### 189. GLASS Effect With CSS
+### 190. GLASS Effect With CSS
 - **URL**: [https://www.youtube.com/watch?v=3HRvb2tLqF4](https://www.youtube.com/watch?v=3HRvb2tLqF4)
 - **Channel**: Clueless Expert
 - **Duration**: 1:30
@@ -8096,7 +8137,7 @@
       box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
   }
 
-### 190. I tried Blurring things in Quirky ways
+### 191. I tried Blurring things in Quirky ways
 - **URL**: [https://www.youtube.com/watch?v=--4n9c4-h1Y](https://www.youtube.com/watch?v=--4n9c4-h1Y)
 - **Channel**: Juxtopposed
 - **Duration**: 9:23
@@ -8147,7 +8188,7 @@
   
   (if you need any of these products and want to support the channel, you can use my affiliate links above. I may earn a commission at no extra cost to you. win-win!)
 
-### 191. I tried designing and coding grainy textures for a week
+### 192. I tried designing and coding grainy textures for a week
 - **URL**: [https://www.youtube.com/watch?v=_ZFghigBmqo](https://www.youtube.com/watch?v=_ZFghigBmqo)
 - **Channel**: Juxtopposed
 - **Duration**: 5:52
@@ -8200,7 +8241,7 @@
   
   #grainytexture #codepen #figma #tutorial #designandcode #weeklyadventures  #textures
 
-### 192. CSS Morphing Gradients Animated Background
+### 193. CSS Morphing Gradients Animated Background
 - **URL**: [https://www.youtube.com/watch?v=Ml-B-W91gtw](https://www.youtube.com/watch?v=Ml-B-W91gtw)
 - **Channel**: WeCoded
 - **Duration**: 14:44
@@ -8213,7 +8254,7 @@
   Source code: https://github.com/baunov/gradients-bg
   Font used: https://fonts.google.com/specimen/Dongle
 
-### 193. How To Make GRAINY GRADIENTS In CSS ( + Interactive Bonus)
+### 194. How To Make GRAINY GRADIENTS In CSS ( + Interactive Bonus)
 - **URL**: [https://www.youtube.com/watch?v=SfH3hPq6bl4](https://www.youtube.com/watch?v=SfH3hPq6bl4)
 - **Channel**: Sam Osborne
 - **Duration**: 10:01
@@ -8243,7 +8284,7 @@
   
   #developer #sideproject #javascript #dev #opensource #react #html #css #js
 
-### 194. Typewriter Animation in CSS
+### 195. Typewriter Animation in CSS
 - **URL**: [https://www.youtube.com/watch?v=yefgBA1CecI](https://www.youtube.com/watch?v=yefgBA1CecI)
 - **Channel**: Clueless Expert
 - **Duration**: 1:05
@@ -8261,7 +8302,7 @@
   
   #css #html #typewriter
 
-### 195. Glowing Corner Hover Effects | CSS & Javascript
+### 196. Glowing Corner Hover Effects | CSS & Javascript
 - **URL**: [https://www.youtube.com/watch?v=CJ26NLtdzPA](https://www.youtube.com/watch?v=CJ26NLtdzPA)
 - **Channel**: Online Tutorials
 - **Duration**: 8:03
@@ -8303,7 +8344,7 @@
   ------------------
   Disclaimer video is for educational purpose only. Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use
 
-### 196. Learn DOM Manipulation In 18 Minutes
+### 197. Learn DOM Manipulation In 18 Minutes
 - **URL**: [https://www.youtube.com/watch?v=y17RuWkWdn8](https://www.youtube.com/watch?v=y17RuWkWdn8)
 - **Channel**: Web Dev Simplified
 - **Duration**: 18:37
@@ -8363,7 +8404,7 @@
   
   #DOMManipulation #WDS #JavaScript
 
-### 197. How to FETCH data from an API using JavaScript ↩️
+### 198. How to FETCH data from an API using JavaScript ↩️
 - **URL**: [https://www.youtube.com/watch?v=37vxWr0WgQk](https://www.youtube.com/watch?v=37vxWr0WgQk)
 - **Channel**: Bro Code
 - **Duration**: 14:17
@@ -8408,7 +8449,7 @@
       }
   }
 
-### 198. Asynchronous Javascript Tutorial - Promises and Async Await Explained
+### 199. Asynchronous Javascript Tutorial - Promises and Async Await Explained
 - **URL**: [https://www.youtube.com/watch?v=PgZ9npYJZzU](https://www.youtube.com/watch?v=PgZ9npYJZzU)
 - **Channel**: PedroTech
 - **Duration**: 23:04
@@ -8443,7 +8484,7 @@
   01:26 | Promises
   17:00 | Async Await
 
-### 199. Learn Event Delegation In 10 Minutes
+### 200. Learn Event Delegation In 10 Minutes
 - **URL**: [https://www.youtube.com/watch?v=cOoP8-NPLSo](https://www.youtube.com/watch?v=cOoP8-NPLSo)
 - **Channel**: Web Dev Simplified
 - **Duration**: 9:57
@@ -8484,7 +8525,7 @@
   
   #EventDelegation #WDS #JavaScript
 
-### 200. How to Get a Verified Email Badge (Extremely Rare)
+### 201. How to Get a Verified Email Badge (Extremely Rare)
 - **URL**: [https://www.youtube.com/watch?v=3ne0d37cZyc](https://www.youtube.com/watch?v=3ne0d37cZyc)
 - **Channel**: ThioJoe
 - **Duration**: 26:24
@@ -8524,7 +8565,7 @@
   My Gear & Equipment ⇨ https://kit.co/ThioJoe
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 201. Learn Flexbox CSS in 8 minutes
+### 202. Learn Flexbox CSS in 8 minutes
 - **URL**: [https://www.youtube.com/watch?v=phWxA89Dy94](https://www.youtube.com/watch?v=phWxA89Dy94)
 - **Channel**: Slaying The Dragon
 - **Duration**: 8:16
@@ -8553,7 +8594,7 @@
   6:43 align-self
   7:17 order
 
-### 202. CSS Animation in 100 Seconds
+### 203. CSS Animation in 100 Seconds
 - **URL**: [https://www.youtube.com/watch?v=HZHHBwzmJLk](https://www.youtube.com/watch?v=HZHHBwzmJLk)
 - **Channel**: Fireship
 - **Duration**: 2:05
@@ -8581,7 +8622,7 @@
   - vscode-icons
   - Fira Code Font
 
-### 203. Master React JS in easy way
+### 204. Master React JS in easy way
 - **URL**: [https://www.youtube.com/watch?v=E8lXC2mR6-k](https://www.youtube.com/watch?v=E8lXC2mR6-k)
 - **Channel**: Nova Designs
 - **Duration**: 12:18
@@ -8645,7 +8686,7 @@
   
   #react #reacttutorial #reactvideos #reactdevelopment #reactdeveloper #reactjs  #js #javascript #course #tutorial #webdev #webdevelopment
 
-### 204. These CSS PRO Tips & Tricks Will Blow Your Mind!
+### 205. These CSS PRO Tips & Tricks Will Blow Your Mind!
 - **URL**: [https://www.youtube.com/watch?v=PL3Odw-k8W4](https://www.youtube.com/watch?v=PL3Odw-k8W4)
 - **Channel**: Coding2GO
 - **Duration**: 8:48
@@ -8722,7 +8763,7 @@
   
   I hope you learned something new ;)
 
-### 205. world's shortest Figma course
+### 206. world's shortest Figma course
 - **URL**: [https://www.youtube.com/watch?v=1pW_sk-2y40](https://www.youtube.com/watch?v=1pW_sk-2y40)
 - **Channel**: Juxtopposed
 - **Duration**: 6:54
@@ -8777,7 +8818,7 @@
   
   #figma #figmatutorial #uiuxdesign #webdesign
 
-### 206. The only tags you need when first learning HTML
+### 207. The only tags you need when first learning HTML
 - **URL**: [https://www.youtube.com/watch?v=K_EVuLegRZ0](https://www.youtube.com/watch?v=K_EVuLegRZ0)
 - **Channel**: Kevin Powell
 - **Duration**: 17:07
@@ -8861,7 +8902,7 @@
   
   And whatever you do, don't forget to keep on making your corner of the internet just a little bit more awesome!
 
-### 207. Figma UI Design Tutorial: Get Started in Just 24 Minutes!
+### 208. Figma UI Design Tutorial: Get Started in Just 24 Minutes!
 - **URL**: [https://www.youtube.com/watch?v=FTFaQWZBqQ8](https://www.youtube.com/watch?v=FTFaQWZBqQ8)
 - **Channel**: AJ&Smart
 - **Duration**: 24:23
@@ -8933,7 +8974,7 @@
   Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)
   https://youtu.be/FTFaQWZBqQ8
 
-### 208. Figma tutorial for Beginners: Complete Website from Start to Finish
+### 209. Figma tutorial for Beginners: Complete Website from Start to Finish
 - **URL**: [https://www.youtube.com/watch?v=HZuk6Wkx_Eg](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)
 - **Channel**: Flux Academy
 - **Duration**: 43:21
@@ -8978,7 +9019,7 @@
   
   #Figma #WebDesign #FluxAcademy
 
-### 209. 10 CSS Pro Tips - Code this, NOT that!
+### 210. 10 CSS Pro Tips - Code this, NOT that!
 - **URL**: [https://www.youtube.com/watch?v=Qhaz36TZG5Y](https://www.youtube.com/watch?v=Qhaz36TZG5Y)
 - **Channel**: Fireship
 - **Duration**: 9:39
@@ -9022,7 +9063,7 @@
   - vscode-icons
   - Fira Code Font
 
-### 210. Beginner’s guide to styling text with CSS
+### 211. Beginner’s guide to styling text with CSS
 - **URL**: [https://www.youtube.com/watch?v=Y5TYDo9Qcv4](https://www.youtube.com/watch?v=Y5TYDo9Qcv4)
 - **Channel**: Kevin Powell
 - **Duration**: 26:34
@@ -9096,7 +9137,7 @@
   
   And whatever you do, don't forget to keep on making your corner of the internet just a little bit more awesome!
 
-### 211. Install (NVM) Node Version Manager Mac
+### 212. Install (NVM) Node Version Manager Mac
 - **URL**: [https://www.youtube.com/watch?v=BhLFxy6Jz8c](https://www.youtube.com/watch?v=BhLFxy6Jz8c)
 - **Channel**: Seeker Labs
 - **Duration**: 7:35
@@ -9113,7 +9154,7 @@
   
   We also want to have xcode command line tools installed, so if those aren't on your Mac already, then head to the website that is shown in the video to get xcode command line tools so the NVM install will work.
 
-### 212. Minimal portfolio examples for developers who suck at design
+### 213. Minimal portfolio examples for developers who suck at design
 - **URL**: [https://www.youtube.com/watch?v=TIaH7sqnbyA](https://www.youtube.com/watch?v=TIaH7sqnbyA)
 - **Channel**: Scrimba
 - **Duration**: 10:22
@@ -9177,7 +9218,7 @@
   T6BARTMUVJIQZHAM
   7LXNL40MMUKCQORW
 
-### 213. Twitch has Created the Ultimate CSS Hover Effect
+### 214. Twitch has Created the Ultimate CSS Hover Effect
 - **URL**: [https://www.youtube.com/watch?v=joDhIH6Xumw](https://www.youtube.com/watch?v=joDhIH6Xumw)
 - **Channel**: Hyperplexed
 - **Duration**: 3:30
@@ -9200,7 +9241,7 @@
   
   Galaxy - StreamBeats - Lofi - Harris Heller
 
-### 214. Coding A Chrome Extension in JavaScript Tutorial
+### 215. Coding A Chrome Extension in JavaScript Tutorial
 - **URL**: [https://www.youtube.com/watch?v=zHIryKuhYA4](https://www.youtube.com/watch?v=zHIryKuhYA4)
 - **Channel**: PedroTech
 - **Duration**: 23:03
@@ -9246,7 +9287,7 @@
   - NodeJS Tutorial
   - API Tutorial
 
-### 215. JavaScript Course for Beginners
+### 216. JavaScript Course for Beginners
 - **URL**: [https://www.youtube.com/watch?v=Zi-Q0t4gMC8](https://www.youtube.com/watch?v=Zi-Q0t4gMC8)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 3:35:38
@@ -9374,7 +9415,7 @@
   
   Read hundreds of articles on programming: https://freecodecamp.org/news
 
-### 216. Node.js Ultimate Beginner’s Guide in 7 Easy Steps
+### 217. Node.js Ultimate Beginner’s Guide in 7 Easy Steps
 - **URL**: [https://www.youtube.com/watch?v=ENrzD9HAZK4](https://www.youtube.com/watch?v=ENrzD9HAZK4)
 - **Channel**: Fireship
 - **Duration**: 16:20
@@ -9412,7 +9453,7 @@
   - vscode-icons
   - Fira Code Font
 
-### 217. 100+ JavaScript Concepts you Need to Know
+### 218. 100+ JavaScript Concepts you Need to Know
 - **URL**: [https://www.youtube.com/watch?v=lkIFF4maKMU](https://www.youtube.com/watch?v=lkIFF4maKMU)
 - **Channel**: Fireship
 - **Duration**: 12:24
@@ -9463,7 +9504,7 @@
   - Non-blocking event loop
   - Node.js
 
-### 218. Every React Concept Explained in 12 Minutes
+### 219. Every React Concept Explained in 12 Minutes
 - **URL**: [https://www.youtube.com/watch?v=wIyHSOugGGw](https://www.youtube.com/watch?v=wIyHSOugGGw)
 - **Channel**: Code Bootcamp
 - **Duration**: 11:53
@@ -9499,7 +9540,7 @@
   11:06 - Error Boundaries
   11:35 - Learn More
 
-### 219. How I'd Learn Full-Stack Web Development (If I Could Start Over)
+### 220. How I'd Learn Full-Stack Web Development (If I Could Start Over)
 - **URL**: [https://www.youtube.com/watch?v=dPMk6_HTBq8](https://www.youtube.com/watch?v=dPMk6_HTBq8)
 - **Channel**: Conner Ardman
 - **Duration**: 10:28
@@ -9526,7 +9567,7 @@
   
   Business/brands 👉 youtube@connerardman.com
 
-### 220. Do You Know Enough JavaScript To Learn React
+### 221. Do You Know Enough JavaScript To Learn React
 - **URL**: [https://www.youtube.com/watch?v=JR9wsVYp8RQ](https://www.youtube.com/watch?v=JR9wsVYp8RQ)
 - **Channel**: Web Dev Simplified
 - **Duration**: 6:28
@@ -9572,7 +9613,7 @@
   
   #React #WDS #JavaScript
 
-### 221. All The JavaScript You Need To Know For React
+### 222. All The JavaScript You Need To Know For React
 - **URL**: [https://www.youtube.com/watch?v=m55PTVUrlnA](https://www.youtube.com/watch?v=m55PTVUrlnA)
 - **Channel**: PedroTech
 - **Duration**: 28:00
@@ -9629,7 +9670,7 @@
   
   #reactjs #coding
 
-### 222. 100+ Web Development Things you Should Know
+### 223. 100+ Web Development Things you Should Know
 - **URL**: [https://www.youtube.com/watch?v=erEgovG9WBs](https://www.youtube.com/watch?v=erEgovG9WBs)
 - **Channel**: Fireship
 - **Duration**: 13:18
@@ -9669,7 +9710,7 @@
   - Web development roadmap for 2022
   - Intro to web development for beginners
 
-### 223. Python for Coding Interviews - Everything you need to Know
+### 224. Python for Coding Interviews - Everything you need to Know
 - **URL**: [https://www.youtube.com/watch?v=0K_eZGS5NsU](https://www.youtube.com/watch?v=0K_eZGS5NsU)
 - **Channel**: NeetCode
 - **Duration**: 26:18
@@ -9711,7 +9752,7 @@
   
   #coding #interview #python
 
-### 224. My 10 “Clean” Code Principles (Start These Now)
+### 225. My 10 “Clean” Code Principles (Start These Now)
 - **URL**: [https://www.youtube.com/watch?v=wSDyiEjhp8k](https://www.youtube.com/watch?v=wSDyiEjhp8k)
 - **Channel**: Conner Ardman
 - **Duration**: 15:12
@@ -9747,7 +9788,7 @@
   
   Business/brands 👉 youtube@connerardman.com
 
-### 225. Copilot Chat in Visual Studio Code | GitHub Universe
+### 226. Copilot Chat in Visual Studio Code | GitHub Universe
 - **URL**: [https://www.youtube.com/watch?v=a2DDYMEPwbE](https://www.youtube.com/watch?v=a2DDYMEPwbE)
 - **Channel**: GitHub
 - **Duration**: 9:48
@@ -9789,7 +9830,7 @@
   About GitHub
   It’s where over 100 million developers create, share, and ship the best code possible. It’s a place for anyone, from anywhere, to build anything—it’s where the world builds software. https://github.com
 
-### 226. This UI component library is mind-blowing
+### 227. This UI component library is mind-blowing
 - **URL**: [https://www.youtube.com/watch?v=RPa3_AD1_Vs](https://www.youtube.com/watch?v=RPa3_AD1_Vs)
 - **Channel**: Beyond Fireship
 - **Duration**: 8:23
@@ -9805,7 +9846,7 @@
   Parallax Tutorial https://youtu.be/UgIwjLg4ONk
   Fireship Next.js Course https://fireship.io/courses/nextjs/
 
-### 227. Build a Chrome Extension – Course for Beginners
+### 228. Build a Chrome Extension – Course for Beginners
 - **URL**: [https://www.youtube.com/watch?v=0n809nd4Zu4](https://www.youtube.com/watch?v=0n809nd4Zu4)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 1:06:25
@@ -9852,7 +9893,7 @@
   
   Read hundreds of articles on programming: https://freecodecamp.org/news
 
-### 228. 40 APIs Every Developer Should Use (in 12 minutes)
+### 229. 40 APIs Every Developer Should Use (in 12 minutes)
 - **URL**: [https://www.youtube.com/watch?v=YHxj3LvZoLQ](https://www.youtube.com/watch?v=YHxj3LvZoLQ)
 - **Channel**: Coding with Lewis
 - **Duration**: 12:23
@@ -9930,7 +9971,7 @@
   11:40 digidates
   12:05 OpenSky Network
 
-### 229. Never* use git pull
+### 230. Never* use git pull
 - **URL**: [https://www.youtube.com/watch?v=xN1-2p06Urc](https://www.youtube.com/watch?v=xN1-2p06Urc)
 - **Channel**: Philomatics
 - **Duration**: 4:02
@@ -9959,7 +10000,7 @@
   ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
   Everything here is for informational purposes only. All non-licensed clips used for fair use commentary, criticism, and educational purposes.  See Hosseinzadeh v. Klein, 276 F.Supp.3d 34 (S.D.N.Y. 2017); Equals Three, LLC v. Jukin Media, Inc., 139 F. Supp. 3d 1094 (C.D. Cal. 2015).
 
-### 230. 35 Things Every Programmer Should Know
+### 231. 35 Things Every Programmer Should Know
 - **URL**: [https://www.youtube.com/watch?v=ODp-yivAUnY](https://www.youtube.com/watch?v=ODp-yivAUnY)
 - **Channel**: Coding with Lewis
 - **Duration**: 18:01
@@ -10007,7 +10048,7 @@
   16:30 The Deployment Process
   17:43 AI!?!?!?!?!?
 
-### 231. Prompt Engineering Tutorial – Master ChatGPT and LLM Responses
+### 232. Prompt Engineering Tutorial – Master ChatGPT and LLM Responses
 - **URL**: [https://www.youtube.com/watch?v=_ZvnD73m40o](https://www.youtube.com/watch?v=_ZvnD73m40o)
 - **Channel**: freeCodeCamp.org
 - **Duration**: 41:36
@@ -10070,7 +10111,7 @@
   
   Read hundreds of articles on programming: https://freecodecamp.org/news
 
-### 232. The Easy Way to Design Top Tier Websites
+### 233. The Easy Way to Design Top Tier Websites
 - **URL**: [https://www.youtube.com/watch?v=qyomWr_C_jA](https://www.youtube.com/watch?v=qyomWr_C_jA)
 - **Channel**: Sajid
 - **Duration**: 11:54
@@ -10092,7 +10133,7 @@
   
   https://www.iamsajid.com/
 
-### 233. Nesting "If Statements" Is Bad. Do This Instead.
+### 234. Nesting "If Statements" Is Bad. Do This Instead.
 - **URL**: [https://www.youtube.com/watch?v=Zmx0Ou5TNJs](https://www.youtube.com/watch?v=Zmx0Ou5TNJs)
 - **Channel**: Flutter Mapp
 - **Duration**: 1:00
@@ -10134,7 +10175,7 @@
   #shorts 
   #Flutter
 
-### 234. 5 wild new AI tools you can try right now
+### 235. 5 wild new AI tools you can try right now
 - **URL**: [https://www.youtube.com/watch?v=BY81yNttfpg](https://www.youtube.com/watch?v=BY81yNttfpg)
 - **Channel**: Fireship
 - **Duration**: 4:15
@@ -10180,7 +10221,7 @@
   - How to use Stable Diffusion 3 medium
   - AI generated sound effects tools
 
-### 235. JavaScript Course for Beginners – Your First Step to Web Development
+### 236. JavaScript Course for Beginners – Your First Step to Web Development
 - **URL**: [https://www.youtube.com/watch?v=W6NZfCO5SIk](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - **Channel**: Programming with Mosh
 - **Duration**: 48:17
@@ -10234,7 +10275,7 @@
   
   #coding #javascript #webdevelopment
 
-### 236. These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)
+### 237. These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)
 - **URL**: [https://www.youtube.com/watch?v=8XVI_Zrvz3c](https://www.youtube.com/watch?v=8XVI_Zrvz3c)
 - **Channel**: ForrestKnight
 - **Duration**: 21:08
@@ -10301,7 +10342,7 @@
   My PC Build:  https://bit.ly/my-coding-gear
   My AI GPU: https://amzn.to/3uvmUmz
 
-### 237. Make LIBREOFFICE more compatible with MICROSOFT OFFICE & 365
+### 238. Make LIBREOFFICE more compatible with MICROSOFT OFFICE & 365
 - **URL**: [https://www.youtube.com/watch?v=G0che2Az9hw](https://www.youtube.com/watch?v=G0che2Az9hw)
 - **Channel**: The Linux Experiment
 - **Duration**: 15:23
@@ -10377,7 +10418,7 @@
   
   https://www.youtube.com/watch?v=s87xFvfeg7Y&t=3s
 
-### 238. Exciting Update: Sync Tasks with Google Events - Now Available!
+### 239. Exciting Update: Sync Tasks with Google Events - Now Available!
 - **URL**: [https://www.youtube.com/watch?v=Wr0ybMGlVz4](https://www.youtube.com/watch?v=Wr0ybMGlVz4)
 - **Channel**: TickTick
 - **Duration**: 2:47
@@ -10407,7 +10448,7 @@
   TICKTICK OFFICIAL WEBSITE：
   https://ticktick.com/
 
-### 239. Watermark and Flatten with Automator
+### 240. Watermark and Flatten with Automator
 - **URL**: [https://www.youtube.com/watch?v=qKBklVNO_NQ](https://www.youtube.com/watch?v=qKBklVNO_NQ)
 - **Channel**: ShelleyWeb
 - **Duration**: 6:05
@@ -10424,7 +10465,7 @@
   
   https://pitchclipsgraphics.com/wordpress-hosting-and-maintenance/
 
-### 240. This (Free) App Lets You Play Windows Steam Games on MacOS
+### 241. This (Free) App Lets You Play Windows Steam Games on MacOS
 - **URL**: [https://www.youtube.com/watch?v=kS1nDox1yRo](https://www.youtube.com/watch?v=kS1nDox1yRo)
 - **Channel**: Bog
 - **Duration**: 4:16
@@ -10458,7 +10499,7 @@
   
   Not playing Windows games on Mac, but Steam play unsupported games like Minecraft on Mac, But Paralells and Crossover, or any other windows game playing on Mac fast like that. This is a tutorial / Windows on Mac with Whiskey of run on Mac and FPS to launch games on Mac in 2025.
 
-### 241. Change These 13 Hidden Chrome Settings Now!
+### 242. Change These 13 Hidden Chrome Settings Now!
 - **URL**: [https://www.youtube.com/watch?v=V5cdFJqknE8](https://www.youtube.com/watch?v=V5cdFJqknE8)
 - **Channel**: ThioJoe
 - **Duration**: 14:32
@@ -10497,7 +10538,7 @@
   ⇨ http://Facebook.com/ThioJoeTV
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 242. Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!
+### 243. Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!
 - **URL**: [https://www.youtube.com/watch?v=jC4v5AS4RIM](https://www.youtube.com/watch?v=jC4v5AS4RIM)
 - **Channel**: Jeff Su
 - **Duration**: 8:30
@@ -10567,7 +10608,7 @@
   
   #chatgpt #googlebard #promptengineering
 
-### 243. Microsoft Copilot - Excel has forever changed
+### 244. Microsoft Copilot - Excel has forever changed
 - **URL**: [https://www.youtube.com/watch?v=F1ILGTXKUQM](https://www.youtube.com/watch?v=F1ILGTXKUQM)
 - **Channel**: Luke Barousse
 - **Duration**: 10:05
@@ -10613,7 +10654,7 @@
   
   #datanerd #dataanalyst #datascience
 
-### 244. Most people don't know how to use it (Seriously)
+### 245. Most people don't know how to use it (Seriously)
 - **URL**: [https://www.youtube.com/watch?v=Cm6dUQ6t57A](https://www.youtube.com/watch?v=Cm6dUQ6t57A)
 - **Channel**: Bog
 - **Duration**: 6:54
@@ -10636,7 +10677,7 @@
   🔒 - VPN I'm using rn - https://bit.ly/bogProtonVPN
   💻 - My MacBook - https://amzn.to/4e2Ajcw
 
-### 245. How To Write a COLD Email (Template)
+### 246. How To Write a COLD Email (Template)
 - **URL**: [https://www.youtube.com/watch?v=B6Q7BUmAh-I](https://www.youtube.com/watch?v=B6Q7BUmAh-I)
 - **Channel**: Bog
 - **Duration**: 3:29
@@ -10679,7 +10720,7 @@
   2:03 5 Tips For Writing Better Cold Emails
   3:04 Bonus Tip
 
-### 246. 25 Mac Settings You Have to Change
+### 247. 25 Mac Settings You Have to Change
 - **URL**: [https://www.youtube.com/watch?v=psPgSN1bPLY](https://www.youtube.com/watch?v=psPgSN1bPLY)
 - **Channel**: Snazzy Labs
 - **Duration**: 21:32
@@ -10728,7 +10769,7 @@
   18:40 - Stop Substantial Screenshots
   19:52 - Hide Ur Pecker
 
-### 247. How To Get Out of Tutorial Hell (Step by Step Guide)
+### 248. How To Get Out of Tutorial Hell (Step by Step Guide)
 - **URL**: [https://www.youtube.com/watch?v=343EWZS9O88](https://www.youtube.com/watch?v=343EWZS9O88)
 - **Channel**: bigboxSWE
 - **Duration**: 4:54
@@ -10775,7 +10816,7 @@
   [2] Nick Janetakis YouTube: https://www.youtube.com/c/NickJanetakis 
   [3] Music massobeats - honey jam https://www.youtube.com/watch?v=HGMQbVfYVmI
 
-### 248. ChatGPT Update: Custom Instructions in ChatGPT! (Full Guide)
+### 249. ChatGPT Update: Custom Instructions in ChatGPT! (Full Guide)
 - **URL**: [https://www.youtube.com/watch?v=TbbA44Jaric](https://www.youtube.com/watch?v=TbbA44Jaric)
 - **Channel**: AI Foundations
 - **Duration**: 13:19
@@ -10817,7 +10858,7 @@
   
   #chatgpt #custominstructions
 
-### 249. The Black Box Method: How to Learn Hard Concepts Quickly
+### 250. The Black Box Method: How to Learn Hard Concepts Quickly
 - **URL**: [https://www.youtube.com/watch?v=RDzsrmMl48I](https://www.youtube.com/watch?v=RDzsrmMl48I)
 - **Channel**: Colin Galen
 - **Duration**: 14:09
@@ -10847,7 +10888,7 @@
   Practicality/useful libraries 11:27
   Final remarks 13:07
 
-### 250. Use these instead of vh
+### 251. Use these instead of vh
 - **URL**: [https://www.youtube.com/watch?v=ru3U8MHbFFI](https://www.youtube.com/watch?v=ru3U8MHbFFI)
 - **Channel**: Kevin Powell
 - **Duration**: 6:06
@@ -10903,7 +10944,7 @@
   
   And whatever you do, don't forget to keep on making your corner of the internet just a little bit more awesome!
 
-### 251. I tried MacOS for 1 year. Here’s what I learned.
+### 252. I tried MacOS for 1 year. Here’s what I learned.
 - **URL**: [https://www.youtube.com/watch?v=t7VqRGeVO0Y](https://www.youtube.com/watch?v=t7VqRGeVO0Y)
 - **Channel**: Bog
 - **Duration**: 6:20
@@ -10930,7 +10971,7 @@
   🔒 - VPN I'm using rn - https://bit.ly/bogProtonVPN
   💻 - My MacBook - https://amzn.to/4e2Ajcw
 
-### 252. 5 saal me 25 lakh kaise kamaye? | Tanay Pratap #hindi
+### 253. 5 saal me 25 lakh kaise kamaye? | Tanay Pratap #hindi
 - **URL**: [https://www.youtube.com/watch?v=IqNWxmvrlOQ](https://www.youtube.com/watch?v=IqNWxmvrlOQ)
 - **Channel**: Tanay Pratap
 - **Duration**: 17:11
@@ -10971,7 +11012,7 @@
   What am I building? Today, 25 million Indians prepare for government job entrance exams. They do it for years together. The probability of success is less than 1% but they still do it. Why? For the lack of a structured alternative to launch their white-collar career. I am building Invact to bridge this gap. 
   How? Follow me to know, it's a long story. I am telling it in parts every day.
 
-### 253. The COMPLETE CS2 Settings Guide 2024 (Resolution, Video, Audio Crosshair, FPS, and More)
+### 254. The COMPLETE CS2 Settings Guide 2024 (Resolution, Video, Audio Crosshair, FPS, and More)
 - **URL**: [https://www.youtube.com/watch?v=yhoEElKV4as](https://www.youtube.com/watch?v=yhoEElKV4as)
 - **Channel**: voocsgo
 - **Duration**: 13:49
@@ -11011,7 +11052,7 @@
   
   tags: CS2, CS2 settings, Settings, CS2 FPS Optimization, FPS Boost, CS2 video settings, CS2 audio settings, CS2 game settings, autoexec, auto exec, keybinds, launch options, -high
 
-### 254. You Need To Use This Windows Feature
+### 255. You Need To Use This Windows Feature
 - **URL**: [https://www.youtube.com/watch?v=Wj3U6QS7rOo](https://www.youtube.com/watch?v=Wj3U6QS7rOo)
 - **Channel**: TechWiser
 - **Duration**: 1:00
@@ -11045,7 +11086,7 @@
   
   #Tech #Smartphones #TeamTechWiser
 
-### 255. You Are Using YouTube Wrong!
+### 256. You Are Using YouTube Wrong!
 - **URL**: [https://www.youtube.com/watch?v=9KOnqipqrWU](https://www.youtube.com/watch?v=9KOnqipqrWU)
 - **Channel**: TechWiser
 - **Duration**: 0:54
@@ -11079,7 +11120,7 @@
   
   #Tech #Smartphones #TeamTechWiser
 
-### 256. Absolute BEGINNER Guide to the Mac OS Terminal
+### 257. Absolute BEGINNER Guide to the Mac OS Terminal
 - **URL**: [https://www.youtube.com/watch?v=aKRYQsKR46I](https://www.youtube.com/watch?v=aKRYQsKR46I)
 - **Channel**: Percy Grunwald from TopTechSkills
 - **Duration**: 17:03
@@ -11124,7 +11165,7 @@
   
   I'm Percy Grunwald from https://TopTechSkills.com here to help you get to the next level in programming, web development, DevOps and more! I hope you found this video useful, please leave a comment if there's anything I can help you with.
 
-### 257. Have Your Mac Terminal Suggest Commands - Brew ZSH-AutoSuggestions
+### 258. Have Your Mac Terminal Suggest Commands - Brew ZSH-AutoSuggestions
 - **URL**: [https://www.youtube.com/watch?v=UdUb8WPR4f0](https://www.youtube.com/watch?v=UdUb8WPR4f0)
 - **Channel**: EasyOSX
 - **Duration**: 5:47
@@ -11157,7 +11198,7 @@
   
   #homebrew #mac #terminal #commandline #autosuggestion #zsh  #bash
 
-### 258. Setup Autocomplete in your Mac Terminal - zsh-autocomplete
+### 259. Setup Autocomplete in your Mac Terminal - zsh-autocomplete
 - **URL**: [https://www.youtube.com/watch?v=ZhFFs5ltNDs](https://www.youtube.com/watch?v=ZhFFs5ltNDs)
 - **Channel**: EasyOSX
 - **Duration**: 4:24
@@ -11183,7 +11224,7 @@
   --If you click a link and purchase something through our articles, these may be affiliate links through which we earn a commission.  Commission on products do not affect editorial ability or direction, and we try to add affiliate links to items we either do or would recommend and use ourselves.  We do not take money or affiliate commissions from companies in exchange for reviewing their products. 
   #mac #apple #homebrew #brew #terminal #autocomplete #zsh
 
-### 259. How to Customize Zsh Command Prompt Text
+### 260. How to Customize Zsh Command Prompt Text
 - **URL**: [https://www.youtube.com/watch?v=p4h-5B8k2NY](https://www.youtube.com/watch?v=p4h-5B8k2NY)
 - **Channel**: Coding With Adam
 - **Duration**: 13:00
@@ -11232,7 +11273,7 @@
   00:09:48 Right prompt text
   00:12:02 Hide last login
 
-### 260. macOS Homebrew Explained in 1 Minute: Formula, Keg, Cellar, Cask, Bottle, and Tap
+### 261. macOS Homebrew Explained in 1 Minute: Formula, Keg, Cellar, Cask, Bottle, and Tap
 - **URL**: [https://www.youtube.com/watch?v=GWERB5GNExY](https://www.youtube.com/watch?v=GWERB5GNExY)
 - **Channel**: James Murdza
 - **Duration**: 0:47
@@ -11256,7 +11297,7 @@
   
   For related guides and tutorials: https://jamesmurdza.com/
 
-### 261. How to Install Python on Mac (Homebrew)
+### 262. How to Install Python on Mac (Homebrew)
 - **URL**: [https://www.youtube.com/watch?v=6sJ0qKTyJnc](https://www.youtube.com/watch?v=6sJ0qKTyJnc)
 - **Channel**: Dave Ebbelaar
 - **Duration**: 4:13
@@ -11280,7 +11321,7 @@
   - https://instagram.com/daveebbelaar
   - https://twitter.com/daveebbelaar
 
-### 262. Using Cursor - the AI powered VS Code alt for the first time…
+### 263. Using Cursor - the AI powered VS Code alt for the first time…
 - **URL**: [https://www.youtube.com/watch?v=n4DRPGWTmpc](https://www.youtube.com/watch?v=n4DRPGWTmpc)
 - **Channel**: Huw Prosser
 - **Duration**: 7:20
@@ -11291,7 +11332,7 @@
 - **Description**:
   Check out https://carter.chat
 
-### 263. Figma did WHAT!???? - Config 2023 Announcements
+### 264. Figma did WHAT!???? - Config 2023 Announcements
 - **URL**: [https://www.youtube.com/watch?v=HV_74hKcNws](https://www.youtube.com/watch?v=HV_74hKcNws)
 - **Channel**: Juxtopposed
 - **Duration**: 4:09
@@ -11314,7 +11355,7 @@
   
   #config23 #figma #devmode #figmatutorial
 
-### 264. Rise of the Dark Mode
+### 265. Rise of the Dark Mode
 - **URL**: [https://www.youtube.com/watch?v=6U9iC-c15AI](https://www.youtube.com/watch?v=6U9iC-c15AI)
 - **Channel**: Juxtopposed
 - **Duration**: 4:39
@@ -11347,7 +11388,7 @@
   
   #darkmode #webdesign #uidesign
 
-### 265. Special Windows Folders You Need to Know About
+### 266. Special Windows Folders You Need to Know About
 - **URL**: [https://www.youtube.com/watch?v=Sxt8WrtlUno](https://www.youtube.com/watch?v=Sxt8WrtlUno)
 - **Channel**: ThioJoe
 - **Duration**: 8:39
@@ -11382,7 +11423,7 @@
   
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 266. How to learn to code FAST using ChatGPT (it's a game changer seriously)
+### 267. How to learn to code FAST using ChatGPT (it's a game changer seriously)
 - **URL**: [https://www.youtube.com/watch?v=pkKQBhQyUyQ](https://www.youtube.com/watch?v=pkKQBhQyUyQ)
 - **Channel**: Nick White
 - **Duration**: 10:39
@@ -11423,7 +11464,7 @@
   
   #programming #SoftwareEngineering #Coding
 
-### 267. Unravelling the Magic behind Polyrhythms
+### 268. Unravelling the Magic behind Polyrhythms
 - **URL**: [https://www.youtube.com/watch?v=Kt3DavtVGVE](https://www.youtube.com/watch?v=Kt3DavtVGVE)
 - **Channel**: Hyperplexed
 - **Duration**: 17:49
@@ -11446,7 +11487,7 @@
   Hypnotized SpongeBob And Patrick 3D Desktop Wallpaper By jes123 on wallpaper.com
   Link: https://bit.ly/3IPuJw2
 
-### 268. How to write a Strong Resume for Software Developer #2 | For Freshers & Experienced
+### 269. How to write a Strong Resume for Software Developer #2 | For Freshers & Experienced
 - **URL**: [https://www.youtube.com/watch?v=2UPCEA6187s](https://www.youtube.com/watch?v=2UPCEA6187s)
 - **Channel**: Akshay Saini
 - **Duration**: 18:14
@@ -11494,7 +11535,7 @@
   
   #TipsAndTricks #InterviewTips #AkshaySaini
 
-### 269. Top 7 Podcasts To Make You RICH
+### 270. Top 7 Podcasts To Make You RICH
 - **URL**: [https://www.youtube.com/watch?v=Cnb8AXsKkTM](https://www.youtube.com/watch?v=Cnb8AXsKkTM)
 - **Channel**: Vedant Rusty
 - **Duration**: 8:13
@@ -11531,7 +11572,7 @@
   If you're the Twitter type,
   https://twitter.com/vedantrusty
 
-### 270. ~/.dotfiles in 100 Seconds
+### 271. ~/.dotfiles in 100 Seconds
 - **URL**: [https://www.youtube.com/watch?v=r_MpUP6aKiQ](https://www.youtube.com/watch?v=r_MpUP6aKiQ)
 - **Channel**: Fireship
 - **Duration**: 13:54
@@ -11562,7 +11603,7 @@
   - vscode-icons
   - Fira Code Font
 
-### 271. Branchless Programming: Why "If" is Sloowww... and what we can do about it!
+### 272. Branchless Programming: Why "If" is Sloowww... and what we can do about it!
 - **URL**: [https://www.youtube.com/watch?v=bVJ-mWWL7cE](https://www.youtube.com/watch?v=bVJ-mWWL7cE)
 - **Channel**: Creel
 - **Duration**: 19:25
@@ -11587,7 +11628,7 @@
   OpenOffice: https://www.openoffice.org/
   Gimp: https://www.gimp.org/
 
-### 272. Naming Things in Code
+### 273. Naming Things in Code
 - **URL**: [https://www.youtube.com/watch?v=-J3wNP6u5YU](https://www.youtube.com/watch?v=-J3wNP6u5YU)
 - **Channel**: CodeAesthetic
 - **Duration**: 7:25
@@ -11610,7 +11651,7 @@
    
   #softwaredesign  #code #programming
 
-### 273. DON'T WRITE CODE YOURSELF | HOW I USE IT?
+### 274. DON'T WRITE CODE YOURSELF | HOW I USE IT?
 - **URL**: [https://www.youtube.com/watch?v=rVuemq-RxWs](https://www.youtube.com/watch?v=rVuemq-RxWs)
 - **Channel**: Striver
 - **Duration**: 11:59
@@ -11630,7 +11671,7 @@
   Check out our Website f: https://www.takeuforward.org/
   Linkedin/Instagram/Telegram: https://linktr.ee/takeUforward
 
-### 274. Google Accounts Just Got an AWESOME New Feature - Passkeys
+### 275. Google Accounts Just Got an AWESOME New Feature - Passkeys
 - **URL**: [https://www.youtube.com/watch?v=VuzddtQZeT8](https://www.youtube.com/watch?v=VuzddtQZeT8)
 - **Channel**: ThioJoe
 - **Duration**: 11:06
@@ -11664,7 +11705,7 @@
   My Gear & Equipment ⇨ https://kit.co/ThioJoe
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 275. Why You Shouldn't Nest Your Code
+### 276. Why You Shouldn't Nest Your Code
 - **URL**: [https://www.youtube.com/watch?v=CFRhGnuXG-4](https://www.youtube.com/watch?v=CFRhGnuXG-4)
 - **Channel**: CodeAesthetic
 - **Duration**: 8:30
@@ -11679,7 +11720,7 @@
   
   Correction: At 2:20 the inversion should be "less than or equal", not "less than"
 
-### 276. GitHub Readme Images Tutorial (screenshots in readmes)
+### 277. GitHub Readme Images Tutorial (screenshots in readmes)
 - **URL**: [https://www.youtube.com/watch?v=hHbWF1Bvgf4](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
 - **Channel**: TanUv90
 - **Duration**: 3:51
@@ -11700,7 +11741,7 @@
   ❮img src="images/you-picture.png" width="100" ❯
   -Only specify 1 attribute to maintain the aspect ratio
 
-### 277. Windows FINALLY Got a Package Manager - Here's Why It's Awesome
+### 278. Windows FINALLY Got a Package Manager - Here's Why It's Awesome
 - **URL**: [https://www.youtube.com/watch?v=uxr7m8wDeGA](https://www.youtube.com/watch?v=uxr7m8wDeGA)
 - **Channel**: ThioJoe
 - **Duration**: 17:41
@@ -11735,7 +11776,7 @@
   My Gear & Equipment ⇨ https://kit.co/ThioJoe
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
-### 278. ChatGPT Crash Course | 10 Practical Use Cases For Developers
+### 279. ChatGPT Crash Course | 10 Practical Use Cases For Developers
 - **URL**: [https://www.youtube.com/watch?v=o_joulYVndM](https://www.youtube.com/watch?v=o_joulYVndM)
 - **Channel**: Traversy Media
 - **Duration**: 32:34
@@ -11778,7 +11819,7 @@
   23:45 - #9 Natural Language Programming
   29:08 - #10 - UIs & Layouts
 
-### 279. 25 VS Code Productivity Tips and Speed Hacks
+### 280. 25 VS Code Productivity Tips and Speed Hacks
 - **URL**: [https://www.youtube.com/watch?v=ifTF3ags0XI](https://www.youtube.com/watch?v=ifTF3ags0XI)
 - **Channel**: Fireship
 - **Duration**: 11:35
@@ -11845,7 +11886,7 @@
   - vscode-icons
   - Fira Code Font
 
-### 280. Top 10 Best VS Code Extensions
+### 281. Top 10 Best VS Code Extensions
 - **URL**: [https://www.youtube.com/watch?v=c5GAS_PMXDs](https://www.youtube.com/watch?v=c5GAS_PMXDs)
 - **Channel**: codeSTACKr
 - **Duration**: 17:37
@@ -11911,7 +11952,7 @@
   
   #codeSTACKr #vscode #learntocode
 
-### 281. AutoGPT: This Is ChatGPT Supercharged!
+### 282. AutoGPT: This Is ChatGPT Supercharged!
 - **URL**: [https://www.youtube.com/watch?v=LqjVMy2qhRY](https://www.youtube.com/watch?v=LqjVMy2qhRY)
 - **Channel**: Two Minute Papers
 - **Duration**: 7:19
@@ -11951,7 +11992,7 @@
   Twitter: https://twitter.com/twominutepapers
   Web: https://cg.tuwien.ac.at/~zsolnai/
 
-### 282. 10 Math Concepts for Programmers
+### 283. 10 Math Concepts for Programmers
 - **URL**: [https://www.youtube.com/watch?v=bOCHTHkBoAs](https://www.youtube.com/watch?v=bOCHTHkBoAs)
 - **Channel**: Fireship
 - **Duration**: 9:32
@@ -11998,7 +12039,7 @@
   - Combinatorics explained
   - How does Big-O notation work
 
-### 283. BEST WAY to read and understand code
+### 284. BEST WAY to read and understand code
 - **URL**: [https://www.youtube.com/watch?v=XTZVbmz7LpY](https://www.youtube.com/watch?v=XTZVbmz7LpY)
 - **Channel**: The Cherno
 - **Duration**: 17:24
@@ -12031,7 +12072,7 @@
   
   This video is sponsored by Brilliant.
 
-### 284. Most Powerful Apps to Customize at the System-Level in 2023!
+### 285. Most Powerful Apps to Customize at the System-Level in 2023!
 - **URL**: [https://www.youtube.com/watch?v=zoYY3JdPQ3Q](https://www.youtube.com/watch?v=zoYY3JdPQ3Q)
 - **Channel**: HowToMen
 - **Duration**: 13:03
@@ -12145,7 +12186,7 @@
   10:20 SystemUI Tuner
   11:15 How to Enable Shizuku
 
-### 285. 20+ Windows features you didn’t know about
+### 286. 20+ Windows features you didn’t know about
 - **URL**: [https://www.youtube.com/watch?v=4GASGO0go5I](https://www.youtube.com/watch?v=4GASGO0go5I)
 - **Channel**: Linus Tech Tips
 - **Duration**: 16:17
@@ -12205,7 +12246,7 @@
   11:43 Windows has SSH built in now
   12:29 Keyboard shortcuts, God Mode, and other tricks
 
-### 286. How principled coders outperform the competition
+### 287. How principled coders outperform the competition
 - **URL**: [https://www.youtube.com/watch?v=q1qKv5TBaOA](https://www.youtube.com/watch?v=q1qKv5TBaOA)
 - **Channel**: Coderized
 - **Duration**: 11:11
@@ -12286,7 +12327,7 @@
   
   Special thanks go to Vita and Jakob, for helping me with all my thoughts and suggesting improvements!
 
-### 287. 3 Tips To Write Clean Code (from an ex-Google software engineer)
+### 288. 3 Tips To Write Clean Code (from an ex-Google software engineer)
 - **URL**: [https://www.youtube.com/watch?v=HcijbAI4eB0](https://www.youtube.com/watch?v=HcijbAI4eB0)
 - **Channel**: Clément Mihailescu
 - **Duration**: 17:12
@@ -12305,7 +12346,7 @@
   
   Prepping for coding interviews or systems design interviews? Practice with hundreds of video explanations of popular interview questions and a full-fledged coding workspace on AlgoExpert - https://www.algoexpert.io - and use the promo code "clem" for a discount on the platform!
 
-### 288. How I Got Good at Coding Interviews
+### 289. How I Got Good at Coding Interviews
 - **URL**: [https://www.youtube.com/watch?v=SVvr3ZjtjI8](https://www.youtube.com/watch?v=SVvr3ZjtjI8)
 - **Channel**: NeetCode
 - **Duration**: 6:29
@@ -12336,7 +12377,7 @@
   
   Disclosure: Some of the links above may be affiliate links, from which I may earn a small commission.
 
-### 289. MY ULTIMATE LEETCODE TRICKS
+### 290. MY ULTIMATE LEETCODE TRICKS
 - **URL**: [https://www.youtube.com/watch?v=p_9t8uhXQdk](https://www.youtube.com/watch?v=p_9t8uhXQdk)
 - **Channel**: PIRATE KING
 - **Duration**: 8:12
@@ -12448,7 +12489,7 @@
   #leetcode #coding #tricks 
   #codinginterview #tipsandtricks #pirateking
 
-### 290. How to NOT Fail a Technical Interview
+### 291. How to NOT Fail a Technical Interview
 - **URL**: [https://www.youtube.com/watch?v=1t1_a1BZ04o](https://www.youtube.com/watch?v=1t1_a1BZ04o)
 - **Channel**: Fireship
 - **Duration**: 8:26
@@ -12489,7 +12530,7 @@
   - Failing a technical interview
   - How to prepare for programming interview
 
-### 291. How to "Google It" like a Senior Software Engineer
+### 292. How to "Google It" like a Senior Software Engineer
 - **URL**: [https://www.youtube.com/watch?v=cEBkvm0-rg0](https://www.youtube.com/watch?v=cEBkvm0-rg0)
 - **Channel**: Fireship
 - **Duration**: 4:07
